@@ -97,6 +97,7 @@ export default function TradingBotsClient() {
 
     const networks = getTradingBotsNetwork();
     const interfaces = getTradingBotsInterface();
+    console.log('@allo');
 
     const sortColumns = [
         { name: 'Комиссия (сначала больше)', value: 'feeDesc', realValue: 'sortCommission', desc: true },
