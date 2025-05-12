@@ -1,0 +1,566 @@
+{
+  "Data": {
+    "wallets": {
+      "info": {
+        "title": "Кошельки",
+        "allNetworks": [
+          "Ethereum",
+          "Solana",
+          "Bitcoin",
+          "BSC",
+          "Tron",
+          "TON",
+          "Arbitrum",
+          "Polygon",
+          "Avalanche",
+          "Optimism",
+          "Sonic",
+          "Cronos",
+          "zkSync",
+          "Base",
+          "Linea",
+          "Mantle",
+          "PulseChain",
+          "Blast",
+          "Metis",
+          "Beam",
+          "UniChain",
+          "Merlin",
+          "Mode",
+          "HyperLiquid",
+          "Abstract",
+          "ApeChain",
+          "Cosmos",
+          "Polkadot",
+          "NEAR",
+          "Algorand",
+          "Tezos",
+          "Kusama",
+          "Aptos",
+          "Sui",
+          "Eclipse",
+          "Sonic SVM",
+          "StarkNet",
+          "Cardano",
+          "Zilliqa",
+          "Elrond",
+          "Harmony",
+          "Kava",
+          "Celo",
+          "THORChain",
+          "Wanchain",
+          "VeChain",
+          "Ontology",
+          "IoTeX",
+          "Aion",
+          "ICON",
+          "Akash",
+          "Band",
+          "Groestlcoin",
+          "Nimiq",
+          "POA Network",
+          "TomoChain",
+          "ThunderCore",
+          "GoChain",
+          "Callisto",
+          "Waves",
+          "Aeternity",
+          "Nebulas",
+          "Fusion",
+          "Hoo",
+          "Bitcoin Cash",
+          "KuCoin",
+          "Huobi",
+          "OKX",
+          "GateChain",
+          "Meter",
+          "Theta",
+          "Ravencoin",
+          "Filecoin",
+          "Elastos",
+          "NULS",
+          "NerveNetwork",
+          "Hedera",
+          "Litecoin",
+          "Dash",
+          "Zcash",
+          "DigiByte",
+          "Qtum",
+          "Viacoin",
+          "Decred",
+          "Bitcoin Gold",
+          "Horizen",
+          "Komodo",
+          "Firo",
+          "Pirate Chain",
+          "Verge",
+          "Ubiq",
+          "Ethereum Classic",
+          "MIX"
+        ]
+      },
+      "tools": {
+        "Backpack": {
+          "description": "Мультичейн кошелек с фокусом на Solana экосистему. Предлагает удобный интерфейс и поддержку различных dApps.",
+          "icon": "https://www.backpack.app/favicon.ico",
+          "url": "https://www.backpack.app/",
+          "networks": [
+            {
+              "name": "SOL",
+              "fullName": "Solana",
+              "icon": "TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "ETH",
+              "fullName": "Ethereum",
+              "icon": "TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "POL",
+              "fullName": "Polygon",
+              "icon": "TradingBotsChain/polygon-matic-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "fullName": "Base",
+              "icon": "TradingBotsChain/base.webp"
+            },
+            {
+              "name": "ARB",
+              "fullName": "Arbitrum",
+              "icon": "TradingBotsChain/arbitrum-arb-logo.webp"
+            },
+            {
+              "name": "OP",
+              "fullName": "Optimism",
+              "icon": "TradingBotsChain/optimism-ethereum-op-logo.webp"
+            },
+            {
+              "name": "ECLIPSE",
+              "fullName": "Eclipse",
+              "icon": "TradingBotsChain/eclipse.webp"
+            },
+            {
+              "name": "SONIC SVM",
+              "fullName": "Sonic SVM",
+              "icon": "TradingBotsChain/sonic-svm.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"],
+          "fullSupportedNetworks": [
+            "Solana",
+            "Ethereum",
+            "Polygon",
+            "Base",
+            "Arbitrum",
+            "Optimism",
+            "Eclipse",
+            "Sonic SVM"
+          ]
+        },
+        "Metamask": {
+          "description": "Популярный Web3 кошелек для сетей, совместимых с Ethereum. Поддерживат широкий спекр dApps и токенов.",
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg",
+          "url": "https://metamask.io/",
+          "networks": [
+            {
+              "name": "EVM",
+              "fullName": "Ethereum",
+              "icon": "TradingBotsChain/ethereum-eth-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"],
+          "fullSupportedNetworks": [
+            "Ethereum",
+            "BSC",
+            "Arbitrum",
+            "Polygon",
+            "Avalanche",
+            "Optimism",
+            "Sonic",
+            "Cronos",
+            "zkSync",
+            "Base",
+            "Linea",
+            "Mantle",
+            "PulseChain",
+            "Blast",
+            "Metis",
+            "Beam",
+            "UniChain",
+            "Merlin",
+            "Mode",
+            "HyperLiquid",
+            "Abstract",
+            "ApeChain",
+            "Kava",
+            "Celo",
+            "Wanchain",
+            "IoTeX",
+            "Akash",
+            "Callisto",
+            "Meter",
+            "Theta",
+            "Elastos",
+            "NULS",
+            "NerveNetwork",
+            "Hedera",
+            "Ethereum Classic"
+          ]
+        },
+        "Rabby Wallet": {
+          "description": "Инновационный Web3 кошелек с расширенными функциями безопасности и поддержкой смарт-контрактов. Популярен среди опытных пользователей DeFi.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/rabbywallet%20(1)-dKb0x4fqWHAVCDmWFLbuYfJVtajZlP.png",
+          "url": "https://rabby.io/",
+          "networks": [
+            {
+              "name": "EVM",
+              "fullName": "Ethereum",
+              "icon": "TradingBotsChain/ethereum-eth-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile", "desktop"],
+          "fullSupportedNetworks": [
+            "Ethereum",
+            "BSC",
+            "Arbitrum",
+            "Polygon",
+            "Avalanche",
+            "Optimism",
+            "Sonic",
+            "Cronos",
+            "zkSync",
+            "Base",
+            "Linea",
+            "Mantle",
+            "PulseChain",
+            "Blast",
+            "Metis",
+            "Beam",
+            "UniChain",
+            "Merlin",
+            "Mode",
+            "HyperLiquid",
+            "Abstract",
+            "ApeChain",
+            "Kava",
+            "Celo",
+            "Wanchain",
+            "IoTeX",
+            "Akash",
+            "Callisto",
+            "Meter",
+            "Theta",
+            "Elastos",
+            "NULS",
+            "NerveNetwork",
+            "Hedera",
+            "Ethereum Classic"
+          ]
+        },
+        "Trust Wallet": {
+          "description": "Мультивалютный кошелек, поддерживающий широкий спектр блокчейнов и токенов. Предлагает встроенный обмен и покупку криптовалют.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/trustwallet-RJ80ZiaGPtvLkwnZdbq1gz3ekT9bSA.png",
+          "url": "https://trustwallet.com/",
+          "networks": [
+            {
+              "name": "EVM",
+              "fullName": "Ethereum",
+              "icon": "TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "BTC",
+              "fullName": "Bitcoin",
+              "icon": "TradingBotsChain/bitcoin-btc-logo.webp"
+            },
+            {
+              "name": "SOL",
+              "fullName": "Solana",
+              "icon": "TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "TRX",
+              "fullName": "Tron",
+              "icon": "TradingBotsChain/tron-trx-logo.webp"
+            },
+            {
+              "name": "DOT",
+              "fullName": "Polkadot",
+              "icon": "TradingBotsChain/polkadot-new-dot-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"],
+          "additionalNetworks": "и др.",
+          "fullSupportedNetworks": [
+            "Ethereum",
+            "Solana",
+            "Bitcoin",
+            "BSC",
+            "Tron",
+            "TON",
+            "Arbitrum",
+            "Polygon",
+            "Avalanche",
+            "Optimism",
+            "Sonic",
+            "Cronos",
+            "zkSync",
+            "Base",
+            "Linea",
+            "Mantle",
+            "PulseChain",
+            "Blast",
+            "Metis",
+            "Beam",
+            "UniChain",
+            "Merlin",
+            "Mode",
+            "HyperLiquid",
+            "Abstract",
+            "ApeChain",
+            "Cosmos",
+            "Polkadot",
+            "NEAR",
+            "Algorand",
+            "Tezos",
+            "Kusama",
+            "Aptos",
+            "Sui",
+            "StarkNet",
+            "Cardano",
+            "Zilliqa",
+            "Elrond",
+            "Harmony",
+            "Kava",
+            "Celo",
+            "THORChain",
+            "Wanchain",
+            "VeChain",
+            "Ontology",
+            "IoTeX",
+            "Aion",
+            "ICON",
+            "Akash",
+            "Band",
+            "Groestlcoin",
+            "Nimiq",
+            "POA Network",
+            "TomoChain",
+            "ThunderCore",
+            "GoChain",
+            "Callisto",
+            "Waves",
+            "Aeternity",
+            "Nebulas",
+            "Fusion",
+            "Hoo",
+            "Bitcoin Cash",
+            "KuCoin",
+            "Huobi",
+            "OKX",
+            "GateChain",
+            "Meter",
+            "Theta",
+            "Ravencoin",
+            "Filecoin",
+            "Elastos",
+            "NULS",
+            "NerveNetwork",
+            "Hedera",
+            "Litecoin",
+            "Dash",
+            "Zcash",
+            "DigiByte",
+            "Qtum",
+            "Viacoin",
+            "Decred",
+            "Bitcoin Gold",
+            "Horizen",
+            "Komodo",
+            "Firo",
+            "Pirate Chain",
+            "Verge",
+            "Ubiq",
+            "Ethereum Classic",
+            "MIX"
+          ]
+        },
+        "Phantom": {
+          "description": "Популярный кошелек, изначально созданный для Solana, теперь поддерживающий несколько блокчейнов. Отличается удобным интерфейсом.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/phantom-7T0Z1e2HBvjVQTjY3SjiEguVuFctOB.png",
+          "url": "https://phantom.app/",
+          "networks": [
+            {
+              "name": "SOL",
+              "fullName": "Solana",
+              "icon": "TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "ETH",
+              "fullName": "Ethereum",
+              "icon": "TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "POL",
+              "fullName": "Polygon",
+              "icon": "TradingBotsChain/polygon-matic-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "fullName": "Base",
+              "icon": "TradingBotsChain/base.webp"
+            },
+            {
+              "name": "SUI",
+              "fullName": "Sui",
+              "icon": "TradingBotsChain/sui-sui-logo.webp"
+            },
+            {
+              "name": "BTC",
+              "fullName": "Bitcoin",
+              "icon": "TradingBotsChain/bitcoin-btc-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"]
+        },
+
+        "Solflare": {
+          "description": "Популярный кошелек для Solana, предлагающий широкий функционал для управления SOL и SPL токенами.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/solflare-utAQ5AravgxSo4DYDl4RBnXLcfHawu.png",
+          "url": "https://solflare.com/",
+          "networks": [
+            {
+              "name": "SOL",
+              "fullName": "Solana",
+              "icon": "TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"]
+        },
+        "Keplr": {
+          "description": "Ведущий кошелек для экосистемы Cosmos. Поддерживает множество Cosmos-based блокчейнов и предоставляет удобный интерфейс для стейкинга и управления активами.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/keplr-M4XeMmc0tPRr7a3xs0YBk4MveSSX7S.png",
+          "url": "https://www.keplr.app/",
+          "networks": [
+            {
+              "name": "Cosmos",
+              "fullName": "Cosmos",
+              "icon": "TradingBotsChain/cosmos-atom-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile", "desktop"]
+        },
+        "Petra": {
+          "description": "Официальный кошелек для сети Aptos. Обеспечивает безопасное хранение и управление токенами APT.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/petra-46p9IdYwTwgRkJjujInKRzgDM7WLIx.png",
+          "url": "https://petra.app/",
+          "networks": [
+            {
+              "name": "APT",
+              "fullName": "Aptos",
+              "icon": "TradingBotsChain/aptos-apt-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"]
+        },
+        "Polkadot.js": {
+          "description": "Официальное расширение для браузера для взаимодействия с экосистемой Polkadot и Kusama.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/polkadot-BQv9LrZZDAj0SgeL4XMdQVWxNJKGJu.png",
+          "url": "https://polkadot.js.org/extension/",
+          "networks": [
+            {
+              "name": "DOT",
+              "fullName": "Polkadot",
+              "icon": "TradingBotsChain/polkadot-new-dot-logo.webp"
+            },
+            {
+              "name": "KSM",
+              "fullName": "Kusama",
+              "icon": "TradingBotsChain/kusama-ksm-logo.webp"
+            }
+          ],
+          "platforms": ["extension"]
+        },
+        "Argent": {
+          "description": "Инновационный смарт-контракт кошелек для Starknet. Предлагает улучшенную безопасность и удобство использования.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/argentx-ancBbZ3R5GtlYmd3lX2ACuwp57iJNJ.png",
+          "url": "https://www.argent.xyz/",
+          "networks": [
+            {
+              "name": "STARK",
+              "fullName": "StarkNet",
+              "icon": "TradingBotsChain/starknet-token-strk-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"]
+        },
+        "Braavos": {
+          "description": "Кошелек для сети Starknet с поддержкой NFT, ориентированный на удобство взаимодействия с dApps.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/bravos-qMAfxFB0szNarnW3WxDNGNXIr1lCaW.png",
+          "url": "https://braavos.app/",
+          "networks": [
+            {
+              "name": "STARK",
+              "fullName": "StarkNet",
+              "icon": "TradingBotsChain/starknet-token-strk-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"]
+        },
+        "TronLink": {
+          "description": "Популярный кошелек для сети TRON, поддерживающий TRX и TRC-окены.",
+          "icon": "https://tronlink.org/favicon.ico",
+          "url": "https://www.tronlink.org/",
+          "networks": [
+            {
+              "name": "TRX",
+              "fullName": "Tron",
+              "icon": "TradingBotsChain/tron-trx-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"]
+        },
+        "TonKeeper": {
+          "description": "Кошелек для блокчейна TON (The Open Network), предлагающий удобный интерфейс для управления TON и токенами.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tonkeeper-j18PZ4gLn2fE4FI9xGIIXtBSF94wvS.png",
+          "url": "https://tonkeeper.com/",
+          "networks": [
+            {
+              "name": "TON",
+              "fullName": "TON",
+              "icon": "TradingBotsChain/toncoin-ton-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile", "desktop"]
+        },
+        "Sui Wallet": {
+          "description": "Официальный кошелек для сети Sui. Обеспечивает безопасное хранение и управление токенами SUI, а также взаимодействие с dApps в экосистеме Sui.",
+          "icon": "TradingBotsChain/sui-sui-logo.webp",
+          "url": "https://suiwallet.com/",
+          "networks": [
+            {
+              "name": "SUI",
+              "fullName": "Sui",
+              "icon": "TradingBotsChain/sui-sui-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"]
+        },
+        "Unisat": {
+          "description": "Специализированный кошелек для сети Bitcoin, предоставляющий поддержку BRC-20 токенов и Ordinals NFT.",
+          "icon": "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/unnamed-CweYp0V1rzfjdWM61SHJvJ9jwWrAWk.png",
+          "url": "https://unisat.io/",
+          "networks": [
+            {
+              "name": "BTC",
+              "fullName": "Bitcoin",
+              "icon": "TradingBotsChain/bitcoin-btc-logo.webp"
+            }
+          ],
+          "platforms": ["extension", "mobile"]
+        }
+      }
+    }
+  }
+}
+

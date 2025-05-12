@@ -1,0 +1,2188 @@
+{
+  "Data": {
+    "tradingBots": {
+      "info": {
+        "title": "Трейдинг боты",
+        "description": "Инструменты для удобной торговли мемкоинами. Поддерживают копитрейдинг, снайпинг и другие функции."
+      },
+      "tools": {
+        "Fasol": {
+          "commission": "0.9%",
+          "features": "MEV-бот, Лимитные ордера, Истории трейдов, Возможность добавить",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG Mini-Apps"
+          ],
+          "airdropChance": "",
+          "referral": "Две ступени: 30%, 2%",
+          "link": "https://t.me/fasol_robot?start=ref_cryppimanager3",
+          "icon": "/Trading-Bots/fasol_robot.webp",
+          "sortCommission": 0.009,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+          }
+        },
+        "Bloom SOL": {
+          "commission": "0.9%",
+          "features": "MEV-бот, Копитрейдинг, Лимитные ордера, Снайпинг CA",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "0"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Три ступени: 25%, 3%, 2%",
+          "link": "https://t.me/BloomSolana_bot?start=ref_J4JAMUX41Y",
+          "icon": "/Trading-Bots/bloom.webp",
+          "sortCommission": 0.009,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "BullX NEO": {
+          "commission": "1%",
+          "features": "MEV бот, Лимитные ордера с авто-продажей, DCA, pump.fun сканер, История сделок с временем, Трекинг кошельков прямо на графике, до 10 графиков на экране",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот",
+            "Сайт"
+          ],
+          "airdropChance": "",
+          "referral": "Реферальная программа непублична. Нужно <a class='underline' href='https://t.me/BullxNeoBot?start=access_1KFA2E4N2MB'>подавать заявку</a>",
+          "link": "https://t.me/BullxNeoBot?start=access_1KFA2E4N2MB",
+          "icon": "/Trading-Bots/BullxBetaBot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+          }
+        },
+        "AXIOM": {
+          "commission": "1%",
+          "features": "MEV бот, Снайпер кошельков, Твиттер снайпер, Снайпинг новых пар, Фьючи (Hyperliquid), Yield пулы",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "Сайт"
+          ],
+          "airdropChance": "",
+          "referral": "Три ступени: 30%, 3%, 2%",
+          "link": "https://axiom.trade/@researche",
+          "icon": "/Trading-Bots/Axiom.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+          }
+        },
+        "Trojan": {
+          "commission": "0.9%",
+          "features": "MEV-бот, DCA. Встроенный бридж, Копитрейнг, Снайпинг новых токенов, Лимитные ордера",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "1"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "5 ступеней: 25%, 3.5%, 2.5%, 2%, 1%",
+          "link": "https://t.me/achilles_trojanbot?start=r-cryppi_manager_",
+          "icon": "/Trading-Bots/achilles_trojanbot.webp",
+          "sortCommission": 0.009,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 2
+            }
+          }
+        },
+        "BONK": {
+          "commission": "1%",
+          "features": "MEV-бот, DCA, Лимитные ордера",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "30% в первый месяц, 20% во второй и 10% навсегда",
+          "link": "https://t.me/bonkbot_bot?start=ref_qd9gt",
+          "icon": "/Trading-Bots/bonkbot_bot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 2
+            }
+          }
+        },
+        "GMGN": {
+          "commission": "1%",
+          "features": "MEV-бот, Копитрейдинг, pump.fun сканер, Поиск smart money, Лимитные ордера",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            },
+            {
+              "name": "BLAST",
+              "icon": "/TradingBotsChain/blast.webp"
+            },
+            {
+              "name": "BNB",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "6"
+            }
+          ],
+          "interface": [
+            "TG бот",
+            "Сайт"
+          ],
+          "airdropChance": "",
+          "referral": "10%",
+          "link": "https://gmgn.ai/?ref=sjH8CTNE",
+          "icon": "/Trading-Bots/gmgn.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 12
+            }
+          }
+        },
+        "NFD BASE": {
+          "commission": "1%",
+          "features": "",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "BASE",
+                "icon": "/TradingBotsChain/base.webp"
+              },
+              "value": "11 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "2 ступени: 30%, 5%",
+          "link": "https://t.me/nfd_base_trade_bot?start=WXGOfau2RDhw",
+          "icon": "/Trading-Bots/NFD Base.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "BASE": {
+              "sortIndex": 6
+            }
+          }
+        },
+        "NFD SUI": {
+          "commission": "1%",
+          "features": "Лимитные ордера",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SUI",
+                "icon": "/TradingBotsChain/sui-sui-logo.webp"
+              },
+              "value": "2 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SUI",
+              "icon": "/TradingBotsChain/sui-sui-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "2 ступени: 30%, 5%",
+          "link": "https://t.me/nfd_sui_trade_bot?start=yF9ZGe0c3IFf",
+          "icon": "/Trading-Bots/nfd_sui_trade_bot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SUI": {
+              "sortIndex": 2
+            }
+          }
+        },
+        "NFD BSC": {
+          "commission": "1%",
+          "features": "MEV-бот, Копи-трейдинг, Авто-покупка, Пароль на кошельке, Мониторинг соц. сетей, Настройка RPC, Лимитные ордера",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "BNB",
+                "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+              },
+              "value": "2 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "BNB",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "BNB",
+                "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+              },
+              "blocks": "1"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Пять ступеней: 25%, 3.5% , 3%, 2%, 1.5%",
+          "link": "https://t.me/nfd_bep20_trade_bot?start=AkR2EmeiN9h7",
+          "icon": "/Trading-Bots/NFD BSC.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "BNB": {
+              "sortIndex": 2
+            }
+          },
+          "copytradingSpeeds": {
+            "BNB": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "NFD TRON": {
+          "commission": "1%",
+          "features": "Копи-трейдинг, Авто-покупка, Лимитные ордера",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "TRON",
+                "icon": "/TradingBotsChain/tron-trx-logo.webp"
+              },
+              "value": "4 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Пять ступеней: 25%, 3.5% , 3%, 2%, 1.5%",
+          "link": "https://t.me/nfd_tron_trade_bot?start=mww5FoIZMf31",
+          "icon": "/Trading-Bots/NFD TRON.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "TRON": {
+              "sortIndex": 2
+            }
+          }
+        },
+        "NFD BERA": {
+          "commission": "1%",
+          "features": "Копи-трейдинг, Пароль на кошельке, Авто-покупка, Настройка RPC, Лимитные ордера",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "BERA",
+                "icon": "/TradingBotsChain/bera.webp"
+              },
+              "value": "3.5 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "BERA",
+              "icon": "/TradingBotsChain/bera.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "BERA",
+                "icon": "/TradingBotsChain/bera.webp"
+              },
+              "blocks": "2"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Пять ступеней:  25%, 3.5% , 3%, 2%, 1.5%",
+          "link": "https://t.me/nfd_bera_trade_bot?start=frE0wEI8YPsL",
+          "icon": "/Trading-Bots/NFD Bera.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "BERA": {
+              "sortIndex": 2
+            }
+          },
+          "copytradingSpeeds": {
+            "BERA": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "Bloom BSC": {
+          "commission": "0.9%",
+          "features": "MEV бот, Копи-трейдинг, Лимитные ордера, Расширение в Chrome, AFK Mode, Бридж",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "BNB",
+                "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+              },
+              "value": "1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "BNB",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "BNB",
+                "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+              },
+              "blocks": "2"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Три ступени: 25%, 3%, 2%",
+          "link": "https://t.me/BloomSmartChain_bot?start=ref_B5KAEC2UYE",
+          "icon": "/Trading-Bots/Bloom BSC.webp",
+          "sortCommission": 0.009,
+          "speeds": {
+            "BNB": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "BNB": {
+              "sortIndex": 2
+            }
+          }
+        },
+        "Bloom BASE": {
+          "commission": "0.9%",
+          "features": "Копи-трейдинг, Лимитные ордера, AFK Mode, Бридж",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "BASE",
+                "icon": "/TradingBotsChain/base.webp"
+              },
+              "value": "2-3 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "BASE",
+                "icon": "/TradingBotsChain/base.webp"
+              },
+              "blocks": "3"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Три ступени: 25%, 3%, 2%",
+          "link": "https://t.me/BloomBase_bot?start=ref_N56ZF7Z23Z",
+          "icon": "/Trading-Bots/Bloom Base.webp",
+          "sortCommission": 0.009,
+          "speeds": {
+            "BASE": {
+              "sortIndex": 3
+            }
+          },
+          "copytradingSpeeds": {
+            "BASE": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "ApePro": {
+          "commission": "0.5%",
+          "features": "MEV-бот, pump.fun сканер, Лимитные ордера",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "2 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "Сайт"
+          ],
+          "airdropChance": "",
+          "referral": "50%",
+          "link": "https://ape.pro/?ref=rXXhfPBCrfdb",
+          "icon": "/Trading-Bots/apepro.webp",
+          "sortCommission": 0.005,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 4
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 4
+            }
+          }
+        },
+        "TradeWiz": {
+          "commission": "1%",
+          "features": "MEV-бот, копитрейдинг, Лимитные ордера c авто-продажей, Поиск smart money",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "1"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "От 25% до 45% в зависимости от кол-ва рефов. 45% от 250 рефералов",
+          "link": "https://t.me/TradeWiz_Solbot?start=r-DHLEFPS6LT",
+          "icon": "/Trading-Bots/TradeWiz_Solbot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 2
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 3
+            }
+          }
+        },
+        "Photon": {
+          "commission": "1%",
+          "features": "MEV-бот, DCA, лимитные ордера, pump.fun сканер",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "Сайт"
+          ],
+          "airdropChance": "",
+          "referral": "Дают только поинты. 100 SOL = 1к поинтов",
+          "link": "https://photon.tinyastro.io/@researched",
+          "icon": "/Trading-Bots/photon.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 4
+            }
+          }
+        },
+        "Sol Trading Bot": {
+          "commission": "1%",
+          "features": "MEV-бот, Копи-трейдинг, Снайпинг, DCA",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "2"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "30%",
+          "link": "https://t.me/SolTradingBot?start=awmYUoCqW",
+          "icon": "/Trading-Bots/SolTradingBot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 5
+            }
+          }
+        },
+        "Pepeboost": {
+          "commission": "1%",
+          "features": "MEV бот, Копитрейдинг, Лимитные ордера c авто-продажей, Снайпинг CA",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "1-2 сек"
+            },
+            {
+              "network": {
+                "name": "TRON",
+                "icon": "/TradingBotsChain/tron-trx-logo.webp"
+              },
+              "value": "4 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "4"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "25%",
+          "link": "https://t.me/pepeboost_sol04_bot?start=ref_09jg1t",
+          "icon": "/Trading-Bots/pepeboost.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 3
+            },
+            "TRON": {
+              "sortIndex": 2
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 10
+            }
+          }
+        },
+        "Pepeboost ETH": {
+          "commission": "1%",
+          "features": "MEV бот, Копи-трейдинг, Лимитные ордера, Турбо мод",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "ETH",
+                "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+              },
+              "value": "3 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "ETH",
+                "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+              },
+              "blocks": "1"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "20%",
+          "link": "https://t.me/pepeboost_swap_bot?start=ref_0bkfsw",
+          "icon": "/Trading-Bots/Pepeboost ETH.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "ETH": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "ETH": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "Pepeboost BASE": {
+          "commission": "1%",
+          "features": "",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "BASE",
+                "icon": "/TradingBotsChain/base.webp"
+              },
+              "value": "2 cек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "20%",
+          "link": "https://t.me/PepeboostBase_bot?start=ref_0n1enq",
+          "icon": "/Trading-Bots/Pepeboost BASE.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "BASE": {
+              "sortIndex": 2
+            }
+          }
+        },
+        "Maestro": {
+          "commission": "1%",
+          "features": "MEV-бот, DCA, Снайпинг новых токенов, Скрапер по чатам и каналам, Копитрейдинг, Лимитные ордера, Встроенный бридж",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "BSC",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            },
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            },
+            {
+              "name": "ARB",
+              "icon": "/TradingBotsChain/arbitrum-arb-logo.webp"
+            },
+            {
+              "name": "AVAX",
+              "icon": "/TradingBotsChain/avalanche-avax-logo.webp"
+            },
+            {
+              "name": "SONIC",
+              "icon": "/TradingBotsChain/sonic.webp"
+            },
+            {
+              "name": "TON",
+              "icon": "/TradingBotsChain/toncoin-ton-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "3"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "25%",
+          "link": "https://t.me/maestro?start=r-cryppi_manager_3",
+          "icon": "/Trading-Bots/maestro.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 7
+            }
+          }
+        },
+        "Banana Gun": {
+          "commission": "1%",
+          "features": "MEV-бот, Копитрейдинг, Лимитные ордера, Пароль на кошельке, Снайпинг по CA",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            },
+            {
+              "network": {
+                "name": "BASE",
+                "icon": "/TradingBotsChain/base.webp"
+              },
+              "value": "2 сек"
+            },
+            {
+              "network": {
+                "name": "BNB",
+                "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+              },
+              "value": "4 сек"
+            },
+            {
+              "network": {
+                "name": "Sonic",
+                "icon": "/TradingBotsChain/sonic.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "SONIC",
+              "icon": "/TradingBotsChain/sonic.webp"
+            },
+            {
+              "name": "BNB",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            },
+            {
+              "name": "Unichain",
+              "icon": "/TradingBotsChain/Unichain.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "1"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "10%",
+          "link": "https://t.me/BananaGun_bot?start=ref_research",
+          "icon": "/Trading-Bots/BananaGun_bot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            },
+            "BASE": {
+              "sortIndex": 2
+            },
+            "BNB": {
+              "sortIndex": 4
+            },
+            "Sonic": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 4
+            }
+          }
+        },
+        "Sui Sniper": {
+          "commission": "1%",
+          "features": "Копитрейдинг, Лимитные ордера с авто-продажей, DCA, Снайпинг мемпадов",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SUI",
+                "icon": "/TradingBotsChain/sui-sui-logo.webp"
+              },
+              "value": "2-3 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SUI",
+              "icon": "/TradingBotsChain/sui-sui-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SUI",
+                "icon": "/TradingBotsChain/sui-sui-logo.webp"
+              },
+              "blocks": "13"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Пять ступеней: 25%, 4%, 3%, 2%, 1%",
+          "link": "https://t.me/SuiSniperBot?start=XV25UH",
+          "icon": "/Trading-Bots/SuiSniperBot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SUI": {
+              "sortIndex": 3
+            }
+          },
+          "copytradingSpeeds": {
+            "SUI": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "Nova": {
+          "commission": "1%",
+          "features": "MEV-бот, Копитрейдинг, pump.fun и Raydium снайпер и авто-покупка по фильтрам, Снайпинг CA, Лимитные ордера, с авто-продажей, Пароль на кошелек, Расширение в Chrome",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "4"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Три ступени: 30%, 3%, 2%",
+          "link": "https://t.me/TradeonNovaBot?start=r-DV35TGR",
+          "icon": "/Trading-Bots/TradeonNovaBot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 11
+            }
+          }
+        },
+        "GariBot": {
+          "commission": "0.5%",
+          "features": "MEV-бот, DCA",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "3.5 сек"
+            },
+            {
+              "network": {
+                "name": "APT",
+                "icon": "/TradingBotsChain/aptos-apt-logo.webp"
+              },
+              "value": "5-6 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "APT",
+              "icon": "/TradingBotsChain/aptos-apt-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "20%",
+          "link": "https://t.me/GariTradingBot?start=r_Gcahq2",
+          "icon": "/Trading-Bots/GariTradingBot.webp",
+          "sortCommission": 0.005,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 6
+            },
+            "APT": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 3
+            }
+          }
+        },
+        "DEFI SOLANA BOT": {
+          "commission": "Купить 0.75%, Продать 1.5%",
+          "features": "Снайпинг CA, Лимитные ордера, с автопродажей, pump.fun и Raydium снайпер, Авто-покупка по фильтрам",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Три ступени: 35%, 3%, 2%",
+          "link": "https://t.me/DEFISOLANABOT?start=6919166646",
+          "icon": "/Trading-Bots/DEFISOLANABOT.webp",
+          "sortCommission": 0.0075,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 4
+            }
+          }
+        },
+        "Soul Sniper": {
+          "commission": "1% свапы, 2.5% снайпы",
+          "features": "MEV-бот, Копитрейдинг, Лимитные ордера с авто-продажей, Групповая торговля, Raydium сканер",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "20% новым юзерам",
+          "link": "https://t.me/soul_sniper_bot?start=smHFoWCYSO8e",
+          "icon": "/Trading-Bots/Soul_Sniper_Bot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 5
+            }
+          }
+        },
+        "Prodigy": {
+          "commission": "0.75–1.9%",
+          "features": "Копи-трейдинг, Снайпинг CA, Пароль на кошелек",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "2 сек"
+            },
+            {
+              "network": {
+                "name": "BASE",
+                "icon": "/TradingBotsChain/base.webp"
+              },
+              "value": "2 сек"
+            },
+            {
+              "network": {
+                "name": "BNB",
+                "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+              },
+              "value": "3 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "AVAX",
+              "icon": "/TradingBotsChain/avalanche-avax-logo.webp"
+            },
+            {
+              "name": "ARB",
+              "icon": "/TradingBotsChain/arbitrum-arb-logo.webp"
+            },
+            {
+              "name": "BLAST",
+              "icon": "/TradingBotsChain/blast.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "BSC",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            },
+            {
+              "name": "CRONOS",
+              "icon": "/TradingBotsChain/cronos.webp"
+            },
+            {
+              "name": "DEGEN",
+              "icon": "/TradingBotsChain/degen-base-degen-logo.webp"
+            },
+            {
+              "name": "SONIC",
+              "icon": "/TradingBotsChain/sonic.webp"
+            },
+            {
+              "name": "LINEA",
+              "icon": "/TradingBotsChain/linea.webp"
+            },
+            {
+              "name": "MANTA",
+              "icon": "/TradingBotsChain/manta.webp"
+            },
+            {
+              "name": "METIS",
+              "icon": "/TradingBotsChain/metis.webp"
+            },
+            {
+              "name": "Optimism",
+              "icon": "/TradingBotsChain/optimism-ethereum-op-logo.webp"
+            },
+            {
+              "name": "Pulsechain",
+              "icon": "/TradingBotsChain/pulsechain.webp"
+            },
+            {
+              "name": "SONIC",
+              "icon": "/TradingBotsChain/sonic.webp"
+            },
+            {
+              "name": "BITROCK",
+              "icon": "/TradingBotsChain/bitrock.webp"
+            },
+            {
+              "name": "zksync",
+              "icon": "/TradingBotsChain/zkSync.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "-1% от комиссий для вас и юзера",
+          "link": "https://t.me/Prodigy_solbot?start=4C8A9E",
+          "icon": "/Trading-Bots/prodigy_solbot.webp",
+          "sortCommission": 0.0075,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 4
+            },
+            "BASE": {
+              "sortIndex": 2
+            },
+            "BNB": {
+              "sortIndex": 3
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 4
+            }
+          }
+        },
+        "Shuriken": {
+          "commission": "1%",
+          "features": "MEV-бот, Лимитные ордера, Снайпинг CA",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "2 сек"
+            },
+            {
+              "network": {
+                "name": "BASE",
+                "icon": "/TradingBotsChain/base.webp"
+              },
+              "value": "3 сек"
+            },
+            {
+              "network": {
+                "name": "BNB",
+                "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+              },
+              "value": "3 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "AVAX",
+              "icon": "/TradingBotsChain/avalanche-avax-logo.webp"
+            },
+            {
+              "name": "SUI",
+              "icon": "/TradingBotsChain/sui-sui-logo.webp"
+            },
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            },
+            {
+              "name": "BNB",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот", "Сайт"
+          ],
+          "airdropChance": "",
+          "referral": "15%",
+          "link": "https://t.me/ShurikenTradeBot?start=ref-cryppi_manager_3",
+          "icon": "/Trading-Bots/ShurikenTradeBot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 4
+            },
+            "BASE": {
+              "sortIndex": 4
+            },
+            "BNB": {
+              "sortIndex": 3
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 4
+            }
+          }
+        },
+        "FluxBot": {
+          "commission": "0.25%",
+          "features": "MEV-бот, Копи-трейдинг, Снайпер СA с фильтрами, Лимитные ордера, Пароль на кошелек",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "6 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "3"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "25%",
+          "link": "https://t.me/fluxbeam_bot?start=cryppi_manager_3",
+          "icon": "/Trading-Bots/fluxbeam_bot.webp",
+          "sortCommission": 0.0025,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 7
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 8
+            }
+          }
+        },
+        "MevX": {
+          "commission": "0.8%",
+          "features": "MEV-бот, Копи-трейдинг, Лимитные ордера, DCA, Снайпинг CA, Снайпинг кошелька, pump.fun сканер, moonshot сканер",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "1 сек"
+            },
+            {
+              "network": {
+                "name": "BASE",
+                "icon": "/TradingBotsChain/base.webp"
+              },
+              "value": "4 сек"
+            },
+            {
+              "network": {
+                "name": "BNB",
+                "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+              },
+              "value": "2 сек"
+            },
+            {
+              "network": {
+                "name": "TRON",
+                "icon": "/TradingBotsChain/tron-trx-logo.webp"
+              },
+              "value": "2 сек"
+            },
+            {
+              "network": {
+                "name": "Hyperliquid",
+                "icon": "/TradingBotsChain/HL symbol_mint green.webp"
+              },
+              "value": "1.5 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "3"
+            }
+          ],
+          "interface": [
+            "TG бот", "Сайт"
+          ],
+          "airdropChance": "",
+          "referral": "Пять ступеней: 25%, 3.5%, 3%, 2%, 1%",
+          "link": "https://t.me/Mevx?start=6gRDz8dfpsLi",
+          "icon": "/Trading-Bots/MevxTradingBot.webp",
+          "sortCommission": 0.008,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 2
+            },
+            "BASE": {
+              "sortIndex": 5
+            },
+            "BNB": {
+              "sortIndex": 2
+            },
+            "TRON": {
+              "sortIndex": 1
+            },
+            "Hyperliquid": {
+              "sortIndex": 2
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 9
+            }
+          }
+        },
+        "Tirador": {
+          "commission": "1%",
+          "features": "MEV-бот, Снайпинг CA, Лимитные ордера, pumpfun и sunpump снайпер",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "<1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Три ступени: 25%, 5%, 1%",
+          "link": "https://t.me/tirador_bot?start=8a1c0672251b450b",
+          "icon": "/Trading-Bots/tirador_bot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 5
+            }
+          }
+        },
+        "Magnum": {
+          "commission": "1%",
+          "features": "MEV-бот, Копи-трейдинг, Копи-трейдинг сканер, Авто-покупка, авто-продажа, Снайпинг CA, pump.fun сканер, Настройки безопасности трейдинга",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "7 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "BASE",
+              "icon": "/TradingBotsChain/base.webp"
+            },
+            {
+              "name": "ETH",
+              "icon": "/TradingBotsChain/ethereum-eth-logo.webp"
+            },
+            {
+              "name": "AVAX",
+              "icon": "/TradingBotsChain/avalanche-avax-logo.webp"
+            },
+            {
+              "name": "SUI",
+              "icon": "/TradingBotsChain/sui-sui-logo.webp"
+            },
+            {
+              "name": "AVAX",
+              "icon": "/TradingBotsChain/avalanche-avax-logo.webp"
+            },
+            {
+              "name": "ARB",
+              "icon": "/TradingBotsChain/arbitrum-arb-logo.webp"
+            },
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            },
+            {
+              "name": "BNB",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            }
+          ],
+          "copytrading": "Да",
+          "copytradingSpeed": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "blocks": "2"
+            }
+          ],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "20%",
+          "link": "https://t.me/magnum_trade_bot?start=BEbTWgwl",
+          "icon": "/Trading-Bots/magnum_trade_bot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 8
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 6
+            }
+          }
+        },
+        "SUIBABot": {
+          "commission": "1%",
+          "features": "Авто-покупка",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SUI",
+                "icon": "/TradingBotsChain/sui-sui-logo.webp"
+              },
+              "value": "1-2 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SUI",
+              "icon": "/TradingBotsChain/sui-sui-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "40%",
+          "link": "https://t.me/suibainu_bot?start=ref_6919166646",
+          "icon": "/Trading-Bots/suibainu_bot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SUI": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "SUI": {
+              "sortIndex": 5
+            }
+          }
+        },
+        "TronSnipeBot": {
+          "commission": "1%",
+          "features": "Копи-трейдинг, Снайпинг CA, Лимитные ордера с автопродажей",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "TRON",
+                "icon": "/TradingBotsChain/tron-trx-logo.webp"
+              },
+              "value": "4-5 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "TRON",
+              "icon": "/TradingBotsChain/tron-trx-logo.webp"
+            },
+            {
+              "name": "BNB",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "Три ступени: 20%, 5%, 5%",
+          "link": "https://t.me/Tronsnipebot?start=ref_Are44g3UPn",
+          "icon": "/Trading-Bots/Tronsnipebot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "TRON": {
+              "sortIndex": 3
+            }
+          },
+          "copytradingSpeeds": {
+            "TRON": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "Nova (SUI)": {
+          "commission": "1%",
+          "features": "Копи-трейдинг, Лимитные ордера, с автопродажей, DCA, Встроенный бридж",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SUI",
+                "icon": "/TradingBotsChain/sui-sui-logo.webp"
+              },
+              "value": "3 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SUI",
+              "icon": "/TradingBotsChain/sui-sui-logo.webp"
+            },
+            {
+              "name": "BNB",
+              "icon": "/TradingBotsChain/bnb-bnb-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "25%",
+          "link": "https://t.me/novasuibot?start=L0SXO",
+          "icon": "/Trading-Bots/novasuibot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "SUI": {
+              "sortIndex": 4
+            }
+          },
+          "copytradingSpeeds": {
+            "SUI": {
+              "sortIndex": 5
+            }
+          }
+        },
+        "Bullpen": {
+          "commission": "0.9%",
+          "features": "pump.fun снайпер, pump.fun сканер",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "3 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "Hyperliquid",
+              "icon": "/TradingBotsChain/HL symbol_mint green.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот",
+            "TG Mini-Apps"
+          ],
+          "airdropChance": "",
+          "referral": "15%",
+          "link": "https://t.me/BullpenFiBot/app?startapp=ref_cryppi_manager_3",
+          "icon": "/Trading-Bots/BullpenFiBot.webp",
+          "sortCommission": 0.009,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 5
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 3
+            }
+          }
+        },
+        "Hey Wallet": {
+          "commission": "2%",
+          "features": "DEX Screener сканер, Лимитныве ордера, DCA",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "SOL",
+                "icon": "/TradingBotsChain/solana-sol-logo.webp"
+              },
+              "value": "1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "10%",
+          "link": "https://t.me/heywallet_bot?start=_o2ao40x3zoz",
+          "icon": "/Trading-Bots/heywallet_bot.webp",
+          "sortCommission": 0.02,
+          "speeds": {
+            "SOL": {
+              "sortIndex": 2
+            }
+          },
+          "copytradingSpeeds": {
+            "SOL": {
+              "sortIndex": 4
+            }
+          }
+        },
+        "pvp.trade": {
+          "commission": "0.5% спот, 0.05% фьючи",
+          "features": "Фьючерсы, Копи-трейдинг, Hyperliquid сканер",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "ARB",
+                "icon": "/TradingBotsChain/arbitrum-arb-logo.webp"
+              },
+              "value": "5 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "ARB",
+              "icon": "/TradingBotsChain/arbitrum-arb-logo.webp"
+            },
+            {
+              "name": "SOL",
+              "icon": "/TradingBotsChain/solana-sol-logo.webp"
+            },
+            {
+              "name": "Hyperliquid",
+              "icon": "/TradingBotsChain/HL symbol_mint green.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "10% поинтов",
+          "link": "https://pvp.trade/join/3b1cu3",
+          "icon": "/Trading-Bots/pvptrade_bot.webp",
+          "sortCommission": 0.005,
+          "speeds": {
+            "ARB": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "ARB": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "Hfun": {
+          "commission": "0.5% спот, 1% премаркет",
+          "features": "Фьючерсы, Снайпер CA, TWAP, Hyperliquid сканер, Hyperliquid снайпер",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "Hyperliquid",
+                "icon": "/TradingBotsChain/HL symbol_mint green.webp"
+              },
+              "value": "1 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "Hyperliquid",
+              "icon": "/TradingBotsChain/HL symbol_mint green.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот", "Сайт"
+          ],
+          "airdropChance": "",
+          "referral": "10%",
+          "link": "https://t.me/HypurrFunBot?start=ref_64fe7746",
+          "icon": "/Trading-Bots/HypurrFunBot.webp",
+          "sortCommission": 0.005,
+          "speeds": {
+            "Hyperliquid": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "Hyperliquid": {
+              "sortIndex": 1
+            }
+          }
+        },
+        "PandaBot": {
+          "commission": "0.75%",
+          "features": "",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "BERA",
+                "icon": "/TradingBotsChain/bera.webp"
+              },
+              "value": "26 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "BERA",
+              "icon": "/TradingBotsChain/bera.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "25%",
+          "link": "https://t.me/pandasnipebot?start=ref_cryppi_manager_3",
+          "icon": "/Trading-Bots/pandasnipebot.webp",
+          "sortCommission": 0.0075,
+          "speeds": {
+            "BERA": {
+              "sortIndex": 3
+            }
+          },
+          "copytradingSpeeds": {
+            "BERA": {
+              "sortIndex": 5
+            }
+          }
+        },
+        "BeraBot": {
+          "commission": "1%",
+          "features": "Beraborrow, Снайпер  CA",
+          "speedInfo": [
+            {
+              "network": {
+                "name": "BERA",
+                "icon": "/TradingBotsChain/bera.webp"
+              },
+              "value": "2 сек"
+            }
+          ],
+          "networks": [
+            {
+              "name": "BERA",
+              "icon": "/TradingBotsChain/bera.webp"
+            }
+          ],
+          "copytrading": "Нет",
+          "copytradingSpeed": [],
+          "interface": [
+            "TG бот"
+          ],
+          "airdropChance": "",
+          "referral": "15%",
+          "link": "https://t.me/berabotsnipingbot?start=ref=researched",
+          "icon": "/Trading-Bots/berabotsnipingbot.webp",
+          "sortCommission": 0.01,
+          "speeds": {
+            "BERA": {
+              "sortIndex": 1
+            }
+          },
+          "copytradingSpeeds": {
+            "BERA": {
+              "sortIndex": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}

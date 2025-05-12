@@ -1,0 +1,2159 @@
+{
+  "Data": {
+    "dexs": {
+      "info": {
+        "title": "DEXs",
+        "allNetworks": [
+          "Abstract",
+          "Algorand",
+          "ApeChain",
+          "Aptos",
+          "Arbitrum",
+          "Arbitrum Nova",
+          "Aurora",
+          "Avalanche",
+          "BOB",
+          "BSC",
+          "Base",
+          "Berachain",
+          "Bitcoin",
+          "Bitlayer",
+          "Bittorrent",
+          "Blast",
+          "Boba",
+          "CORE",
+          "Canto",
+          "Cardano",
+          "Celo",
+          "Chainflip",
+          "Corn",
+          "Cronos",
+          "Cronos zkEVM",
+          "DefiChain",
+          "Dexalot",
+          "EDU Chain",
+          "Eclipse",
+          "Elys",
+          "Ethereum",
+          "Fantom",
+          "Filecoin",
+          "Flare",
+          "Flow",
+          "Fraxtal",
+          "Fuel Ignition",
+          "FunctionX",
+          "Fuse",
+          "Gnosis",
+          "Goat",
+          "Gravity by Galxe",
+          "Harmony",
+          "Heco",
+          "Hedera",
+          "Hemi",
+          "Horizen EON",
+          "Hydration",
+          "Hyperliquid L1",
+          "ICP",
+          "IOTA EVM",
+          "Icon",
+          "Injective",
+          "Ink",
+          "IoTeX",
+          "Kaia",
+          "Kava",
+          "LightLink",
+          "Linea",
+          "Lisk",
+          "Manta",
+          "Mantle",
+          "Merlin",
+          "Meter",
+          "Metis",
+          "Mixin",
+          "Mode",
+          "Moonbeam",
+          "Moonriver",
+          "Morph",
+          "Movement",
+          "MultiversX",
+          "Near",
+          "Neutron",
+          "OP Mainnet",
+          "OntologyEVM",
+          "Oraichain",
+          "Osmosis",
+          "Plume",
+          "Polygon",
+          "Polygon zkEVM",
+          "PulseChain",
+          "Radix",
+          "Rari",
+          "Redstone",
+          "Reya Network",
+          "Ronin",
+          "Rootstock",
+          "Saga",
+          "Sanko",
+          "Scroll",
+          "Sei",
+          "Shape",
+          "Solana",
+          "Soneium",
+          "Sonic",
+          "Sophon",
+          "Stacks",
+          "Starknet",
+          "Stellar",
+          "Story",
+          "Sui",
+          "Swellchain",
+          "TON",
+          "Taiko",
+          "Taraxa",
+          "Terra Classic",
+          "Terra2",
+          "Tezos",
+          "Thorchain",
+          "ThunderCore",
+          "Tron",
+          "Ultron",
+          "Unichain",
+          "Unit Zero",
+          "Vana",
+          "Vaulta",
+          "Venom",
+          "Verus",
+          "Viction",
+          "WEMIX3.0",
+          "WINR",
+          "Wanchain",
+          "Waves",
+          "Wax",
+          "XDC",
+          "XRPL",
+          "ZKsync Era",
+          "Zero Network",
+          "ZetaChain",
+          "Zircuit",
+          "opBNB",
+          "smartBCH"
+        ]
+      },
+      "tools": {
+        "Uniswap": {
+          "icon": "https://icons.llama.fi/uniswap-v3.png",
+          "url": "https://uniswap.org/",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "BOB",
+            "BSC",
+            "Base",
+            "Blast",
+            "Boba",
+            "Celo",
+            "Corn",
+            "Ethereum",
+            "Filecoin",
+            "Gnosis",
+            "Goat",
+            "Hemi",
+            "LightLink",
+            "Linea",
+            "Lisk",
+            "Manta",
+            "Mantle",
+            "Moonbeam",
+            "OP Mainnet",
+            "Polygon",
+            "Polygon zkEVM",
+            "Rootstock",
+            "Saga",
+            "Scroll",
+            "Sei",
+            "Taiko",
+            "Unichain",
+            "ZKsync Era"
+          ]
+        },
+        "Raydium": {
+          "icon": "https://icons.llama.fi/raydium.jpg",
+          "url": "https://raydium.io",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Orca": {
+          "icon": "https://icons.llama.fi/orca.jpg",
+          "url": "https://www.orca.so",
+          "networks": [
+            "Eclipse",
+            "Solana"
+          ]
+        },
+        "PumpSwap": {
+          "icon": "https://icons.llama.fi/pumpswap.jpg",
+          "url": "https://swap.pump.fun",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "PancakeSwap": {
+          "icon": "https://icons.llama.fi/pancakeswap-amm.jpg",
+          "url": "https://pancakeswap.finance/",
+          "networks": [
+            "Aptos",
+            "Arbitrum",
+            "BSC",
+            "Base",
+            "Ethereum",
+            "Linea",
+            "Polygon zkEVM",
+            "ZKsync Era",
+            "opBNB"
+          ]
+        },
+        "Meteora DLMM": {
+          "icon": "https://icons.llama.fi/meteora.png",
+          "url": "https://app.meteora.ag/",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Aerodrome Slipstream": {
+          "icon": "https://icons.llama.fi/aerodrome.png",
+          "url": "https://aerodrome.finance/",
+          "networks": [
+            "Base"
+          ]
+        },
+        "Fluid": {
+          "icon": "https://icons.llama.fi/fluid-dex.png",
+          "url": "https://fluid.instadapp.io/stats/1/dex",
+          "networks": [
+            "Arbitrum",
+            "Ethereum",
+            "Polygon"
+          ]
+        },
+        "Lifinity": {
+          "icon": "https://icons.llama.fi/lifinity-v1.jpg",
+          "url": "https://lifinity.io/pools",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Cetus": {
+          "icon": "https://icons.llama.fi/cetus-amm.png",
+          "url": "https://www.cetus.zone",
+          "networks": [
+            "Aptos",
+            "Sui"
+          ]
+        },
+        "Curve": {
+          "icon": "https://icons.llama.fi/curve.png",
+          "url": "https://curve.fi",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "Base",
+            "Ethereum",
+            "Fantom",
+            "Fraxtal",
+            "Gnosis",
+            "OP Mainnet",
+            "Polygon"
+          ]
+        },
+        "stabble": {
+          "icon": "https://icons.llama.fi/stabble.png",
+          "url": "https://stabble.org",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Hyperliquid Spot Orderbook": {
+          "icon": "https://icons.llama.fi/hyperliquid.png",
+          "url": "https://hyperliquid.xyz",
+          "networks": [
+            "Hyperliquid L1"
+          ]
+        },
+        "pump.fun": {
+          "icon": "https://icons.llama.fi/pump.fun.jpg",
+          "url": "https://www.pump.fun/",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Maverick": {
+          "icon": "https://icons.llama.fi/maverick-v2.jpg",
+          "url": "https://www.mav.xyz",
+          "networks": [
+            "Arbitrum",
+            "BSC",
+            "Base",
+            "Ethereum",
+            "Scroll",
+            "ZKsync Era"
+          ]
+        },
+        "SUNSwap": {
+          "icon": "https://icons.llama.fi/sunswap-v1.jpg",
+          "url": "https://sunswap.com/#/home",
+          "networks": [
+            "Tron"
+          ]
+        },
+        "Pendle": {
+          "icon": "https://icons.llama.fi/pendle.jpg",
+          "url": "https://pendle.finance/",
+          "networks": [
+            "Arbitrum",
+            "BSC",
+            "Ethereum",
+            "Mantle",
+            "OP Mainnet"
+          ]
+        },
+        "Momentum": {
+          "icon": "https://icons.llama.fi/momentum.jpg",
+          "url": "https://app.mmt.finance/trade",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "Thorchain": {
+          "icon": "https://icons.llama.fi/thorchain.jpg",
+          "url": "https://thorchain.com/",
+          "networks": [
+            "Thorchain"
+          ]
+        },
+        "Shadow Exchange CLMM": {
+          "icon": "https://icons.llama.fi/shadow-exchange.jpg",
+          "url": "https://www.shadow.so",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "Kriya CLMM": {
+          "icon": "https://icons.llama.fi/kriya-clmm.png",
+          "url": "https://app.kriya.finance/spot/liquidity",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "Dexalot": {
+          "icon": "https://icons.llama.fi/dexalot-dex.png",
+          "url": "https://app.dexalot.com/",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "Base",
+            "Dexalot"
+          ]
+        },
+        "Bluefin": {
+          "icon": "https://icons.llama.fi/bluefin-amm.png",
+          "url": "https://bluefin.io",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "Joe": {
+          "icon": "https://icons.llama.fi/joe-v2.jpg",
+          "url": "https://lfj.gg/arbitrum/trade",
+          "networks": [
+            "Arbitrum",
+            "Avalanche"
+          ]
+        },
+        "Polymarket": {
+          "icon": "https://icons.llama.fi/polymarket.jpg",
+          "url": "https://polymarket.com",
+          "networks": [
+            "Polygon"
+          ]
+        },
+        "Meteora pools": {
+          "icon": "https://icons.llama.fi/meteora.png",
+          "url": "https://app.meteora.ag/",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Pharaoh CL": {
+          "icon": "https://icons.llama.fi/pharaoh-v3.jpg",
+          "url": "https://pharaoh.exchange/swap/",
+          "networks": [
+            "Avalanche"
+          ]
+        },
+        "ThalaSwap": {
+          "icon": "https://icons.llama.fi/thalaswap-v2.png",
+          "url": "https://www.thala.fi/",
+          "networks": [
+            "Aptos"
+          ]
+        },
+        "Camelot": {
+          "icon": "https://icons.llama.fi/camelot-v3.png",
+          "url": "https://camelot.exchange/",
+          "networks": [
+            "ApeChain",
+            "Arbitrum",
+            "Gnosis",
+            "Gravity by Galxe",
+            "Rari",
+            "Reya Network",
+            "Sanko"
+          ]
+        },
+        "Velodrome": {
+          "icon": "https://icons.llama.fi/velodrome-v3.jpg",
+          "url": "https://velodrome.finance",
+          "networks": [
+            "Fraxtal",
+            "Ink",
+            "Lisk",
+            "Mode",
+            "OP Mainnet",
+            "Soneium",
+            "Swellchain",
+            "Unichain"
+          ]
+        },
+        "Balancer": {
+          "icon": "https://icons.llama.fi/balancer-v3.jpg",
+          "url": "https://balancer.finance/",
+          "networks": [
+            "Ethereum",
+            "Gnosis"
+          ]
+        },
+        "HyperSwap": {
+          "icon": "https://icons.llama.fi/hyperswap-v3.png",
+          "url": "https://app.hyperswap.exchange/#/swap",
+          "networks": [
+            "Hyperliquid L1"
+          ]
+        },
+        "Hyperion": {
+          "icon": "https://icons.llama.fi/hyperion.jpg",
+          "url": "https://hyperion.xyz/",
+          "networks": [
+            "Aptos"
+          ]
+        },
+        "DODO": {
+          "icon": "https://icons.llama.fi/dodo-amm.jpg",
+          "url": "https://dodoex.io/",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "BSC",
+            "Base",
+            "Ethereum",
+            "Linea",
+            "OP Mainnet",
+            "Polygon",
+            "Scroll"
+          ]
+        },
+        "Ekubo": {
+          "icon": "https://icons.llama.fi/ekubo.png",
+          "url": "https://ekubo.org/",
+          "networks": [
+            "Ethereum",
+            "Starknet"
+          ]
+        },
+        "Ekubo EVM": {
+          "icon": "https://icons.llama.fi/ekubo-evm.png",
+          "url": "https://evm.ekubo.org",
+          "networks": [
+            "Ethereum"
+          ]
+        },
+        "Mento": {
+          "icon": "https://icons.llama.fi/mento.png",
+          "url": "https://www.mento.org/",
+          "networks": [
+            "Celo"
+          ]
+        },
+        "Kodiak": {
+          "icon": "https://icons.llama.fi/kodiak.png",
+          "url": "https://app.kodiak.finance",
+          "networks": [
+            "Berachain"
+          ]
+        },
+        "FlowX": {
+          "icon": "https://icons.llama.fi/flowx-v3.png",
+          "url": "https://flowx.finance",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "SwapX Algebra": {
+          "icon": "https://icons.llama.fi/swapx-algebra.jpg",
+          "url": "https://swapx.fi/",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "DeepBook": {
+          "icon": "https://icons.llama.fi/deepbook-v3.jpg",
+          "url": "https://deepbook.tech",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "THENA FUSION": {
+          "icon": "https://icons.llama.fi/thena-fusion.jpg",
+          "url": "https://www.thena.fi",
+          "networks": [
+            "BSC"
+          ]
+        },
+        "SquadSwap WOW": {
+          "icon": "https://icons.llama.fi/squadswap-wow.jpg",
+          "url": "https://squadswap.com/",
+          "networks": [
+            "BSC"
+          ]
+        },
+        "SushiSwap": {
+          "icon": "https://icons.llama.fi/sushiswap.png",
+          "url": "https://sushi.com/",
+          "networks": [
+            "Arbitrum",
+            "Arbitrum Nova",
+            "Avalanche",
+            "BSC",
+            "Base",
+            "Bittorrent",
+            "Blast",
+            "CORE",
+            "Ethereum",
+            "Fantom",
+            "Fuse",
+            "Gnosis",
+            "Hemi",
+            "Kava",
+            "Linea",
+            "Metis",
+            "OP Mainnet",
+            "Polygon",
+            "Polygon zkEVM",
+            "Rootstock",
+            "Scroll",
+            "Sonic",
+            "ThunderCore"
+          ]
+        },
+        "Quickswap": {
+          "icon": "https://icons.llama.fi/quickswap-dex.jpg",
+          "url": "https://quickswap.exchange/",
+          "networks": [
+            "Manta",
+            "Polygon",
+            "Polygon zkEVM",
+            "Soneium"
+          ]
+        },
+        "Tokenlon": {
+          "icon": "https://icons.llama.fi/tokenlon-amm.jpg",
+          "url": "https://tokenlon.im",
+          "networks": [
+            "Ethereum"
+          ]
+        },
+        "Phoenix": {
+          "icon": "https://icons.llama.fi/phoenix.png",
+          "url": "https://phoenix.trade",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Solidly": {
+          "icon": "https://icons.llama.fi/solidly-v3.png",
+          "url": "https://solidly.com",
+          "networks": [
+            "Arbitrum",
+            "Base",
+            "Ethereum",
+            "Fantom",
+            "OP Mainnet",
+            "Sonic"
+          ]
+        },
+        "Osmosis": {
+          "icon": "https://icons.llama.fi/osmosis-dex.jpg",
+          "url": "https://osmosis.zone/",
+          "networks": [
+            "Osmosis"
+          ]
+        },
+        "WOOFi Swap": {
+          "icon": "https://icons.llama.fi/woofi.png",
+          "url": "http://fi.woo.org/",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "BSC",
+            "Base",
+            "Berachain",
+            "Fantom",
+            "Linea",
+            "Mantle",
+            "OP Mainnet",
+            "Polygon",
+            "Polygon zkEVM",
+            "Sonic",
+            "ZKsync Era"
+          ]
+        },
+        "Reservoir Tools": {
+          "icon": "https://icons.llama.fi/reservoir-tools.png",
+          "url": "https://swap.reservoir.tools/#/swap",
+          "networks": [
+            "Abstract",
+            "Ink",
+            "Shape",
+            "Zero Network"
+          ]
+        },
+        "Sailor": {
+          "icon": "https://icons.llama.fi/sailor.png",
+          "url": "https://sailor.finance/",
+          "networks": [
+            "Sei"
+          ]
+        },
+        "Haedal AMM Protocol": {
+          "icon": "https://icons.llama.fi/haedal-amm-protocol.png",
+          "url": "https://haedal.xyz/",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "1DEX": {
+          "icon": "https://icons.llama.fi/1dex.jpg",
+          "url": "https://1dex.com",
+          "networks": [
+            "Vaulta"
+          ]
+        },
+        "Aerodrome": {
+          "icon": "https://icons.llama.fi/aerodrome.png",
+          "url": "https://aerodrome.finance/",
+          "networks": [
+            "Base"
+          ]
+        },
+        "Cellana Finance": {
+          "icon": "https://icons.llama.fi/cellana-finance.jpg",
+          "url": "https://cellana.finance",
+          "networks": [
+            "Aptos"
+          ]
+        },
+        "WAGMI": {
+          "icon": "https://icons.llama.fi/wagmi.png",
+          "url": "https://wagmi.com/",
+          "networks": [
+            "Ethereum",
+            "Fantom",
+            "Kava",
+            "Metis",
+            "Sonic"
+          ]
+        },
+        "BEX": {
+          "icon": "https://icons.llama.fi/bex.png",
+          "url": "https://hub.berachain.com/swap/",
+          "networks": [
+            "Berachain"
+          ]
+        },
+        "LaunchLab": {
+          "icon": "https://icons.llama.fi/launchlab.jpg",
+          "url": "https://raydium.io/launchpad/",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "PulseX": {
+          "icon": "https://icons.llama.fi/pulsex.png",
+          "url": "https://v2-app.pulsex.com/swap",
+          "networks": [
+            "PulseChain"
+          ]
+        },
+        "Metropolis DLMM": {
+          "icon": "https://icons.llama.fi/metropolis-dlmm.png",
+          "url": "https://metropolis.exchange",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "Rhea": {
+          "icon": "https://icons.llama.fi/rhea-dex.jpg",
+          "url": "https://dex.rhea.finance/",
+          "networks": [
+            "Near"
+          ]
+        },
+        "Chainflip": {
+          "icon": "https://icons.llama.fi/chainflip.png",
+          "url": "https://chainflip.io",
+          "networks": [
+            "Chainflip"
+          ]
+        },
+        "BaseX": {
+          "icon": "https://icons.llama.fi/basex.jpg",
+          "url": "https://baseswap.fi",
+          "networks": [
+            "Base"
+          ]
+        },
+        "XPress Protocol": {
+          "icon": "https://icons.llama.fi/xpress-protocol.jpg",
+          "url": "https://xpressprotocol.com",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "Merchant Moe Liquidity Book": {
+          "icon": "https://icons.llama.fi/merchant-moe.png",
+          "url": "https://merchantmoe.com/",
+          "networks": [
+            "Mantle"
+          ]
+        },
+        "SparkDEX": {
+          "icon": "https://icons.llama.fi/sparkdex-v3.1.jpg",
+          "url": "https://sparkdex.ai/home",
+          "networks": [
+            "Flare"
+          ]
+        },
+        "SilverSwap": {
+          "icon": "https://icons.llama.fi/silverswap.jpg",
+          "url": "https://silverswap.io",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "TanX.fi": {
+          "icon": "https://icons.llama.fi/tanx.fi.png",
+          "url": "https://www.tanx.fi",
+          "networks": [
+            "Ethereum"
+          ]
+        },
+        "Dragon Swap": {
+          "icon": "https://icons.llama.fi/dragon-swap-v3.jpg",
+          "url": "https://dragonswap.app",
+          "networks": [
+            "Sei"
+          ]
+        },
+        "Turbos": {
+          "icon": "https://icons.llama.fi/turbos.png",
+          "url": "https://app.turbos.finance/",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "SyncSwap": {
+          "icon": "https://icons.llama.fi/syncswap.png",
+          "url": "https://syncswap.xyz/",
+          "networks": [
+            "Linea",
+            "Scroll",
+            "Sophon",
+            "ZKsync Era"
+          ]
+        },
+        "SaucerSwap": {
+          "icon": "https://icons.llama.fi/saucerswap-v2.jpg",
+          "url": "https://www.saucerswap.finance",
+          "networks": [
+            "Hedera"
+          ]
+        },
+        "Reservoir Tools CLMM": {
+          "icon": "https://icons.llama.fi/reservoir-tools.png",
+          "url": "https://swap.reservoir.tools/#/swap",
+          "networks": [
+            "Abstract",
+            "Redstone",
+            "Shape",
+            "Zero Network"
+          ]
+        },
+        "Hashflow": {
+          "icon": "https://icons.llama.fi/hashflow.png",
+          "url": "https://www.hashflow.com",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "BSC",
+            "Ethereum",
+            "OP Mainnet",
+            "Polygon",
+            "Solana"
+          ]
+        },
+        "GMX V2": {
+          "icon": "https://icons.llama.fi/gmx-v2-amm.jpg",
+          "url": "https://gmx.io/",
+          "networks": [
+            "Arbitrum",
+            "Avalanche"
+          ]
+        },
+        "Agni Finance": {
+          "icon": "https://icons.llama.fi/agni-finance.jpg",
+          "url": "https://agni.finance/",
+          "networks": [
+            "Mantle"
+          ]
+        },
+        "Kyo Finance": {
+          "icon": "https://icons.llama.fi/kyo-finance.jpg",
+          "url": "https://www.kyo.finance",
+          "networks": [
+            "Soneium"
+          ]
+        },
+        "VVS Standard": {
+          "icon": "https://icons.llama.fi/vvs-standard.jpg",
+          "url": "https://vvs.finance",
+          "networks": [
+            "Cronos"
+          ]
+        },
+        "STON.fi": {
+          "icon": "https://icons.llama.fi/ston.fi.png",
+          "url": "https://app.ston.fi/",
+          "networks": [
+            "TON"
+          ]
+        },
+        "Bitflow": {
+          "icon": "https://icons.llama.fi/bitflow.png",
+          "url": "https://www.bitflow.finance/",
+          "networks": [
+            "Stacks"
+          ]
+        },
+        "Minswap": {
+          "icon": "https://icons.llama.fi/minswap.png",
+          "url": "https://minswap.org",
+          "networks": [
+            "Cardano"
+          ]
+        },
+        "Bulla Exchange": {
+          "icon": "https://icons.llama.fi/bulla-exchange.png",
+          "url": "https://www.bulla.exchange",
+          "networks": [
+            "Berachain"
+          ]
+        },
+        "Lynex": {
+          "icon": "https://icons.llama.fi/lynex-fusion.jpg",
+          "url": "https://app.lynex.fi/",
+          "networks": [
+            "Linea"
+          ]
+        },
+        "four.meme": {
+          "icon": "https://icons.llama.fi/four.meme.png",
+          "url": "https://four.meme/",
+          "networks": [
+            "BSC"
+          ]
+        },
+        "Beets": {
+          "icon": "https://icons.llama.fi/beets-sml-new.png",
+          "url": "https://beets.fi",
+          "networks": [
+            "Fantom",
+            "OP Mainnet",
+            "Sonic"
+          ]
+        },
+        "Alien Base": {
+          "icon": "https://icons.llama.fi/alien-base-amm.png",
+          "url": "https://alienbase.xyz/",
+          "networks": [
+            "Base"
+          ]
+        },
+        "Ambient": {
+          "icon": "https://icons.llama.fi/ambient.png",
+          "url": "https://ambient.finance/",
+          "networks": [
+            "Blast",
+            "Canto",
+            "Ethereum",
+            "Plume",
+            "Scroll",
+            "Swellchain"
+          ]
+        },
+        "Pear Protocol": {
+          "icon": "https://icons.llama.fi/pear-protocol.png",
+          "url": "https://pear.garden/",
+          "networks": [
+            "Arbitrum"
+          ]
+        },
+        "Ramses CL": {
+          "icon": "https://icons.llama.fi/ramses-v2.jpg",
+          "url": "https://app.ramses.exchange/dashboard",
+          "networks": [
+            "Arbitrum"
+          ]
+        },
+        "PancakeSwap StableSwap": {
+          "icon": "https://icons.llama.fi/pancakeswap-stableswap.jpg",
+          "url": "https://pancakeswap.finance/swap",
+          "networks": [
+            "Arbitrum",
+            "BSC",
+            "Ethereum"
+          ]
+        },
+        "GMX V1": {
+          "icon": "https://icons.llama.fi/gmx-v1-amm.jpg",
+          "url": "https://gmx.io/",
+          "networks": [
+            "Arbitrum",
+            "Avalanche"
+          ]
+        },
+        "GooseFX": {
+          "icon": "https://icons.llama.fi/goosefx-v2.jpg",
+          "url": "https://app.goosefx.io/gamma",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "TONCO": {
+          "icon": "https://icons.llama.fi/tonco.jpg",
+          "url": "https://tonco.io",
+          "networks": [
+            "TON"
+          ]
+        },
+        "Shadow Exchange Legacy": {
+          "icon": "https://icons.llama.fi/shadow-exchange.jpg",
+          "url": "https://www.shadow.so/",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "BurrBear": {
+          "icon": "https://icons.llama.fi/burrbear.png",
+          "url": "https://app.burrbear.io/",
+          "networks": [
+            "Berachain"
+          ]
+        },
+        "O.LAB": {
+          "icon": "https://icons.llama.fi/o.lab.png",
+          "url": "https://www.olab.xyz/",
+          "networks": [
+            "Base"
+          ]
+        },
+        "Pharaoh Legacy": {
+          "icon": "https://icons.llama.fi/pharaoh-v2.jpg",
+          "url": "https://pharaoh.exchange/swap/",
+          "networks": [
+            "Avalanche"
+          ]
+        },
+        "Yuzu Finance": {
+          "icon": "https://icons.llama.fi/yuzu-finance.jpg",
+          "url": "https://app.yuzu.finance/",
+          "networks": [
+            "Movement"
+          ]
+        },
+        "Drift": {
+          "icon": "https://icons.llama.fi/drift-amm.jpg",
+          "url": "https://www.drift.trade",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Swaps.io": {
+          "icon": "https://icons.llama.fi/swaps.io.jpg",
+          "url": "https://swaps.io",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "BSC",
+            "Base",
+            "Blast",
+            "Ethereum",
+            "Gnosis",
+            "OP Mainnet",
+            "Polygon",
+            "Sonic"
+          ]
+        },
+        "Katana": {
+          "icon": "https://icons.llama.fi/katana-dex.jpg",
+          "url": "https://app.roninchain.com/swap#/swap",
+          "networks": [
+            "Ronin"
+          ]
+        },
+        "Glyph": {
+          "icon": "https://icons.llama.fi/glyph-v4.jpg",
+          "url": "https://app-v4.glyph.exchange/swap",
+          "networks": [
+            "CORE"
+          ]
+        },
+        "BaseSwap": {
+          "icon": "https://icons.llama.fi/baseswap-v2.jpg",
+          "url": "https://baseswap.fi/swap",
+          "networks": [
+            "Base"
+          ]
+        },
+        "Thruster": {
+          "icon": "https://icons.llama.fi/thruster-v3.jpg",
+          "url": "https://app.thruster.finance",
+          "networks": [
+            "Blast"
+          ]
+        },
+        "2THICK": {
+          "icon": "https://icons.llama.fi/2thick.png",
+          "url": "https://eliteness.network/thick",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "Jellyverse": {
+          "icon": "https://icons.llama.fi/jellyverse.png",
+          "url": "https://jellyverse.org/",
+          "networks": [
+            "Sei"
+          ]
+        },
+        "STEAMM": {
+          "icon": "https://icons.llama.fi/steamm.png",
+          "url": "https://steamm.fi",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "Invariant": {
+          "icon": "https://icons.llama.fi/invariant.jpg",
+          "url": "https://invariant.app",
+          "networks": [
+            "Eclipse",
+            "Solana"
+          ]
+        },
+        "Vertex": {
+          "icon": "https://icons.llama.fi/vertex-amm.jpg",
+          "url": "https://vertexprotocol.com",
+          "networks": [
+            "Abstract",
+            "Arbitrum",
+            "Avalanche",
+            "Base",
+            "Mantle",
+            "Sei",
+            "Sonic"
+          ]
+        },
+        "Nile CL": {
+          "icon": "https://icons.llama.fi/nile-exchange.png",
+          "url": "https://nile.build",
+          "networks": [
+            "Linea"
+          ]
+        },
+        "Helix Spot": {
+          "icon": "https://icons.llama.fi/helix-spot.jpg",
+          "url": "https://helixapp.com",
+          "networks": [
+            "Injective"
+          ]
+        },
+        "Meridian": {
+          "icon": "https://icons.llama.fi/meridian-amm.jpg",
+          "url": "https://www.meridian.money",
+          "networks": [
+            "Movement"
+          ]
+        },
+        "Clipper": {
+          "icon": "https://icons.llama.fi/clipper.jpg",
+          "url": "https://clipper.exchange",
+          "networks": [
+            "Arbitrum",
+            "Ethereum",
+            "OP Mainnet",
+            "Polygon"
+          ]
+        },
+        "Metastable": {
+          "icon": "https://icons.llama.fi/metastable.png",
+          "url": "https://mstable.io",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "Astroport": {
+          "icon": "https://icons.llama.fi/astroport.jpg",
+          "url": "https://astroport.fi",
+          "networks": [
+            "Injective",
+            "Neutron",
+            "Osmosis",
+            "Sei",
+            "Terra2"
+          ]
+        },
+        "SpookySwap": {
+          "icon": "https://icons.llama.fi/spookyswap-v2.jpg",
+          "url": "https://spooky.fi/#/",
+          "networks": [
+            "Fantom",
+            "Horizen EON"
+          ]
+        },
+        "Biswap": {
+          "icon": "https://icons.llama.fi/biswap-v2.jpg",
+          "url": "https://biswap.org/",
+          "networks": [
+            "BSC"
+          ]
+        },
+        "Tinyman": {
+          "icon": "https://icons.llama.fi/tinyman.jpg",
+          "url": "https://tinyman.org",
+          "networks": [
+            "Algorand"
+          ]
+        },
+        "Bunni": {
+          "icon": "https://icons.llama.fi/bunni-v2.png",
+          "url": "https://bunni.xyz/",
+          "networks": [
+            "Arbitrum",
+            "Base",
+            "Ethereum"
+          ]
+        },
+        "MagicSea LB": {
+          "icon": "https://icons.llama.fi/magicsea-lb.png",
+          "url": "https://app.magicsea.finance/swap",
+          "networks": [
+            "IOTA EVM"
+          ]
+        },
+        "dappOS IntentEX": {
+          "icon": "https://icons.llama.fi/dappos-intentex.jpg",
+          "url": "https://dappos.com/",
+          "networks": [
+            "opBNB"
+          ]
+        },
+        "mySwap CL": {
+          "icon": "https://icons.llama.fi/myswap-cl.png",
+          "url": "https://www.myswap.xyz/",
+          "networks": [
+            "Starknet"
+          ]
+        },
+        "Frax Swap": {
+          "icon": "https://icons.llama.fi/frax.jpg",
+          "url": "https://app.frax.finance/swap/main",
+          "networks": [
+            "Arbitrum",
+            "Aurora",
+            "Avalanche",
+            "BSC",
+            "Boba",
+            "Ethereum",
+            "Fantom",
+            "Fraxtal",
+            "Harmony",
+            "Moonbeam",
+            "Moonriver",
+            "Polygon"
+          ]
+        },
+        "0x": {
+          "icon": "https://icons.llama.fi/0x.png",
+          "url": "https://www.0x.org/",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "BSC",
+            "Base",
+            "Celo",
+            "Ethereum",
+            "Fantom",
+            "OP Mainnet",
+            "Polygon"
+          ]
+        },
+        "Swaap Maker": {
+          "icon": "https://icons.llama.fi/swaap-maker-v2.jpg",
+          "url": "https://www.swaap.finance",
+          "networks": [
+            "Arbitrum",
+            "BSC",
+            "Base",
+            "Ethereum",
+            "Linea",
+            "Mantle",
+            "Mode",
+            "OP Mainnet",
+            "Polygon",
+            "Scroll"
+          ]
+        },
+        "Amped Finance": {
+          "icon": "https://icons.llama.fi/amped-finance.jpg",
+          "url": "https://amped.finance/",
+          "networks": [
+            "Base",
+            "Berachain",
+            "LightLink",
+            "Sonic"
+          ]
+        },
+        "xExchange": {
+          "icon": "https://icons.llama.fi/ecxchange.png",
+          "url": "https://xexchange.com/",
+          "networks": [
+            "MultiversX"
+          ]
+        },
+        "Sanctum Infinity": {
+          "icon": "https://icons.llama.fi/sanctum-infinity.jpg",
+          "url": "https://www.sanctum.so",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "LumenSwap": {
+          "icon": "https://icons.llama.fi/lumenswap.jpg",
+          "url": "https://lumenswap.io",
+          "networks": [
+            "Stellar"
+          ]
+        },
+        "ICPSwap": {
+          "icon": "https://icons.llama.fi/icpswap.png",
+          "url": "https://app.icpswap.com/",
+          "networks": [
+            "ICP"
+          ]
+        },
+        "Bisq": {
+          "icon": "https://icons.llama.fi/bisq.png",
+          "url": "https://bisq.network/",
+          "networks": [
+            "Bitcoin"
+          ]
+        },
+        "LiquidSwap": {
+          "icon": "https://icons.llama.fi/liquidswap.jpg",
+          "url": "https://liquidswap.com/",
+          "networks": [
+            "Aptos"
+          ]
+        },
+        "Umbra": {
+          "icon": "https://icons.llama.fi/umbra.jpg",
+          "url": "https://umbra.finance/swap",
+          "networks": [
+            "Eclipse"
+          ]
+        },
+        "DeDust": {
+          "icon": "https://icons.llama.fi/dedust.png",
+          "url": "https://dedust.io",
+          "networks": [
+            "TON"
+          ]
+        },
+        "Hydration": {
+          "icon": "https://icons.llama.fi/hydration.jpg",
+          "url": "https://hydration.net",
+          "networks": [
+            "Hydration"
+          ]
+        },
+        "Sonex": {
+          "icon": "https://icons.llama.fi/sonex.png",
+          "url": "https://sonex.so",
+          "networks": [
+            "Soneium"
+          ]
+        },
+        "PulseX StableSwap": {
+          "icon": "https://icons.llama.fi/pulsex-stableswap.png",
+          "url": "https://app.pulsex.com/swap",
+          "networks": [
+            "PulseChain"
+          ]
+        },
+        "Unchain X": {
+          "icon": "https://icons.llama.fi/unchain-x.png",
+          "url": "https://unchainx.io",
+          "networks": [
+            "BSC"
+          ]
+        },
+        "Mosaic": {
+          "icon": "https://icons.llama.fi/mosaic-amm.jpg",
+          "url": "https://mosaic.ag",
+          "networks": [
+            "Movement"
+          ]
+        },
+        "MooniSwap": {
+          "icon": "https://icons.llama.fi/mooniswap.jpg",
+          "url": "https://mooniswap.exchange/#/swap",
+          "networks": [
+            "Ethereum"
+          ]
+        },
+        "Saber": {
+          "icon": "https://icons.llama.fi/saber.jpg",
+          "url": "https://saberdao.io/",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Aftermath": {
+          "icon": "https://icons.llama.fi/aftermath-amm.jpg",
+          "url": "https://aftermath.finance",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "Cleopatra CL": {
+          "icon": "https://icons.llama.fi/cleopatra-v3.jpg",
+          "url": "https://cleo.exchange",
+          "networks": [
+            "Mantle"
+          ]
+        },
+        "boop.fun": {
+          "icon": "https://icons.llama.fi/boop.fun.jpg",
+          "url": "https://boop.fun/",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "Sushi Aptos": {
+          "icon": "https://icons.llama.fi/sushi-aptos.jpg",
+          "url": "https://sushi.com/",
+          "networks": [
+            "Aptos"
+          ]
+        },
+        "Magma": {
+          "icon": "https://icons.llama.fi/magma.jpg",
+          "url": "https://magmafinance.io/",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "LN Exchange Spot": {
+          "icon": "https://icons.llama.fi/ln-exchange.png",
+          "url": "https://app.ln.exchange/",
+          "networks": [
+            "Bitcoin"
+          ]
+        },
+        "Fulcrom": {
+          "icon": "https://icons.llama.fi/fulcrom-amm.jpg",
+          "url": "https://fulcrom.finance",
+          "networks": [
+            "Cronos",
+            "Cronos zkEVM",
+            "ZKsync Era"
+          ]
+        },
+        "iZiSwap": {
+          "icon": "https://icons.llama.fi/iziswap.png",
+          "url": "https://izumi.finance/trade/swap",
+          "networks": [
+            "Arbitrum",
+            "Aurora",
+            "BSC",
+            "Base",
+            "Hemi",
+            "IoTeX",
+            "Linea",
+            "Manta",
+            "Mantle",
+            "Meter",
+            "Mode",
+            "OntologyEVM",
+            "Polygon",
+            "Scroll",
+            "Ultron",
+            "ZKsync Era",
+            "ZetaChain"
+          ]
+        },
+        "Nostra Pools": {
+          "icon": "https://icons.llama.fi/nostra.jpg",
+          "url": "https://app.nostra.finance/pools",
+          "networks": [
+            "Starknet"
+          ]
+        },
+        "Enosys": {
+          "icon": "https://icons.llama.fi/enosys-amm-v3.jpg",
+          "url": "https://xfx.flr.finance/",
+          "networks": [
+            "Flare"
+          ]
+        },
+        "Kinetix Derivatives": {
+          "icon": "https://icons.llama.fi/kinetix-derivatives.png",
+          "url": "https://kinetix.finance/",
+          "networks": [
+            "Kava"
+          ]
+        },
+        "Pinto": {
+          "icon": "https://icons.llama.fi/pinto.jpg",
+          "url": "https://pinto.money/",
+          "networks": [
+            "Base"
+          ]
+        },
+        "Manifest Trade": {
+          "icon": "https://icons.llama.fi/manifest-trade.jpg",
+          "url": "https://manifest.trade/",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "MarginX": {
+          "icon": "https://icons.llama.fi/marginx-dex.jpg",
+          "url": "https://swap.marginx.io/#/swap",
+          "networks": [
+            "FunctionX"
+          ]
+        },
+        "ShibaSwap": {
+          "icon": "https://icons.llama.fi/shibaswap.jpg",
+          "url": "https://shibaswap.com",
+          "networks": [
+            "Ethereum"
+          ]
+        },
+        "Metropolis": {
+          "icon": "https://icons.llama.fi/metropolis-amm.png",
+          "url": "https://metropolis.exchange",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "Splash Protocol": {
+          "icon": "https://icons.llama.fi/splash-protocol.jpg",
+          "url": "https://www.splash.trade",
+          "networks": [
+            "Cardano"
+          ]
+        },
+        "SwapBased Concentrated Liquidity": {
+          "icon": "https://icons.llama.fi/swapbased-concentrated-liquidity.png",
+          "url": "https://swapbased.finance/#/swap",
+          "networks": [
+            "Base"
+          ]
+        },
+        "HARD Swap": {
+          "icon": "https://icons.llama.fi/hard-swap.jpg",
+          "url": "https://swap.hard.fun/",
+          "networks": [
+            "Kava"
+          ]
+        },
+        "PHUX": {
+          "icon": "https://icons.llama.fi/phux.jpg",
+          "url": "https://phux.io",
+          "networks": [
+            "PulseChain"
+          ]
+        },
+        "WigoSwap": {
+          "icon": "https://icons.llama.fi/wigoswap.png",
+          "url": "https://wigoswap.io/",
+          "networks": [
+            "Fantom"
+          ]
+        },
+        "Swop": {
+          "icon": "https://icons.llama.fi/swop.png",
+          "url": "https://swop.fi",
+          "networks": [
+            "Unit Zero",
+            "Waves"
+          ]
+        },
+        "Thena": {
+          "icon": "https://icons.llama.fi/thena-v1.jpg",
+          "url": "https://thena.fi/",
+          "networks": [
+            "BSC"
+          ]
+        },
+        "Bancor": {
+          "icon": "https://icons.llama.fi/bancor.png",
+          "url": "https://app.bancor.network/",
+          "networks": [
+            "Ethereum"
+          ]
+        },
+        "BMX Classic": {
+          "icon": "https://icons.llama.fi/bmx-classic-amm.jpg",
+          "url": "https://bmx.morphex.trade",
+          "networks": [
+            "Base",
+            "Mode"
+          ]
+        },
+        "KittyPunch StableKitty": {
+          "icon": "https://icons.llama.fi/kittypunch-stablekitty.png",
+          "url": "https://stable.kittypunch.xyz/",
+          "networks": [
+            "Flow"
+          ]
+        },
+        "Nuri CL": {
+          "icon": "https://icons.llama.fi/nuri-v2.jpg",
+          "url": "https://www.nuri.exchange",
+          "networks": [
+            "Scroll"
+          ]
+        },
+        "KittyPunch PunchSwap": {
+          "icon": "https://icons.llama.fi/kittypunch-punchswap.png",
+          "url": "https://swap.kittypunch.xyz/",
+          "networks": [
+            "Flow"
+          ]
+        },
+        "Increment Swap": {
+          "icon": "https://icons.llama.fi/increment-swap.png",
+          "url": "https://app.increment.fi/swap",
+          "networks": [
+            "Flow"
+          ]
+        },
+        "WingRiders": {
+          "icon": "https://icons.llama.fi/wingriders.png",
+          "url": "https://www.wingriders.com",
+          "networks": [
+            "Cardano"
+          ]
+        },
+        "BulbaSwap": {
+          "icon": "https://icons.llama.fi/bulbaswap-v3.jpg",
+          "url": "https://bulbaswap.io",
+          "networks": [
+            "Morph"
+          ]
+        },
+        "Balanced Exchange": {
+          "icon": "https://icons.llama.fi/balanced-exchange.png",
+          "url": "https://app.balanced.network/trade",
+          "networks": [
+            "Icon"
+          ]
+        },
+        "Ashswap": {
+          "icon": "https://icons.llama.fi/ashswap.png",
+          "url": "https://app.ashswap.io/swap/",
+          "networks": [
+            "MultiversX"
+          ]
+        },
+        "Mira Protocol": {
+          "icon": "https://icons.llama.fi/mira-protocol.jpg",
+          "url": "https://mira.ly",
+          "networks": [
+            "Fuel Ignition"
+          ]
+        },
+        "Story Hunt": {
+          "icon": "https://icons.llama.fi/story-hunt.png",
+          "url": "https://app.storyhunt.xyz/",
+          "networks": [
+            "Story"
+          ]
+        },
+        "Pangolin": {
+          "icon": "https://icons.llama.fi/pangolin.png",
+          "url": "https://pangolin.exchange",
+          "networks": [
+            "Avalanche"
+          ]
+        },
+        "SundaeSwap": {
+          "icon": "https://icons.llama.fi/sundaeswap-v2.jpg",
+          "url": "https://www.sundaeswap.finance/",
+          "networks": [
+            "Cardano"
+          ]
+        },
+        "MerlinSwap": {
+          "icon": "https://icons.llama.fi/merlinswap.jpg",
+          "url": "https://merlinswap.org",
+          "networks": [
+            "Merlin"
+          ]
+        },
+        "PiperX": {
+          "icon": "https://icons.llama.fi/piperx-v3.png",
+          "url": "https://app.piperx.xyz/",
+          "networks": [
+            "Story"
+          ]
+        },
+        "Defi Swap": {
+          "icon": "https://icons.llama.fi/defi-swap.jpg",
+          "url": "https://crypto.com/defi/swap",
+          "networks": [
+            "Ethereum"
+          ]
+        },
+        "Sanctum Reserve": {
+          "icon": "https://icons.llama.fi/sanctum-reserve.jpg",
+          "url": "https://www.sanctum.so",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "KongSwap": {
+          "icon": "https://icons.llama.fi/kongswap.jpg",
+          "url": "https://www.kongswap.io/swap",
+          "networks": [
+            "ICP"
+          ]
+        },
+        "Hercules": {
+          "icon": "https://icons.llama.fi/hercules-v3.png",
+          "url": "https://app.hercules.exchange",
+          "networks": [
+            "Metis"
+          ]
+        },
+        "DataDex": {
+          "icon": "https://icons.llama.fi/datadex.jpg",
+          "url": "https://datadex.me/",
+          "networks": [
+            "Vana"
+          ]
+        },
+        "PayCash": {
+          "icon": "https://icons.llama.fi/paycash.png",
+          "url": "https://paycashswap.com",
+          "networks": [
+            "Vaulta"
+          ]
+        },
+        "Allbridge Classic": {
+          "icon": "https://icons.llama.fi/allbridge-classic.png",
+          "url": "https://app.allbridge.io",
+          "networks": [
+            "Aurora",
+            "Avalanche",
+            "BSC",
+            "Celo",
+            "Ethereum",
+            "Fantom",
+            "Fuse",
+            "Harmony",
+            "Heco",
+            "Kaia",
+            "Near",
+            "Polygon",
+            "Solana",
+            "Stacks",
+            "Stellar",
+            "Terra Classic",
+            "Tezos",
+            "Waves"
+          ]
+        },
+        "Ocelex": {
+          "icon": "https://icons.llama.fi/ocelex-v2.png",
+          "url": "https://www.ocelex.fi",
+          "networks": [
+            "Zircuit"
+          ]
+        },
+        "Gacha": {
+          "icon": "https://icons.llama.fi/gacha.jpg",
+          "url": "https://gacha.game/",
+          "networks": [
+            "Abstract"
+          ]
+        },
+        "DeltaSwap": {
+          "icon": "https://icons.llama.fi/deltaswap.jpg",
+          "url": "https://gammaswap.com",
+          "networks": [
+            "Arbitrum",
+            "Base",
+            "Ethereum"
+          ]
+        },
+        "Pact": {
+          "icon": "https://icons.llama.fi/pact.png",
+          "url": "https://app.pact.fi",
+          "networks": [
+            "Algorand"
+          ]
+        },
+        "DefiBox": {
+          "icon": "https://icons.llama.fi/defibox.png",
+          "url": "https://defibox.io",
+          "networks": [
+            "Vaulta",
+            "Wax"
+          ]
+        },
+        "zkSwap": {
+          "icon": "https://icons.llama.fi/zkswap-v2.jpg",
+          "url": "https://zkswap.finance",
+          "networks": [
+            "ZKsync Era"
+          ]
+        },
+        "Fenix Standard Pools": {
+          "icon": "https://icons.llama.fi/fenix-finance.jpg",
+          "url": "https://www.fenixfinance.io",
+          "networks": [
+            "Blast"
+          ]
+        },
+        "Ape.Store": {
+          "icon": "https://icons.llama.fi/ape.store.png",
+          "url": "https://ape.store/",
+          "networks": [
+            "Base",
+            "Ethereum"
+          ]
+        },
+        "Elys": {
+          "icon": "https://icons.llama.fi/elys-dex.jpg",
+          "url": "https://app.elys.network/",
+          "networks": [
+            "Elys"
+          ]
+        },
+        "Sonic Market OrderBook": {
+          "icon": "https://icons.llama.fi/sonic-market-orderbook.jpg",
+          "url": "https://www.sonic.market",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "Sologenic": {
+          "icon": "https://icons.llama.fi/sologenic.png",
+          "url": "https://sologenic.org/",
+          "networks": [
+            "XRPL"
+          ]
+        },
+        "Verus Market": {
+          "icon": "https://icons.llama.fi/verus-market.jpg",
+          "url": "https://eth.verusbridge.io/",
+          "networks": [
+            "Verus"
+          ]
+        },
+        "Wasabee": {
+          "icon": "https://icons.llama.fi/wasabee.png",
+          "url": "https://wasabee.xyz/pool",
+          "networks": [
+            "Berachain"
+          ]
+        },
+        "EddyFinance": {
+          "icon": "https://icons.llama.fi/eddyfinance.png",
+          "url": "https://www.eddy.finance/",
+          "networks": [
+            "ZetaChain"
+          ]
+        },
+        "Carbon Defi": {
+          "icon": "https://icons.llama.fi/carbon-defi.png",
+          "url": "https://app.carbondefi.xyz/",
+          "networks": [
+            "Celo",
+            "Ethereum",
+            "Sei"
+          ]
+        },
+        "Capybara Dexs": {
+          "icon": "https://icons.llama.fi/capybara-dexs.jpg",
+          "url": "https://www.capybara.exchange",
+          "networks": [
+            "Kaia"
+          ]
+        },
+        "SquadSwap Dynamo": {
+          "icon": "https://icons.llama.fi/squadswap-dynamo.jpg",
+          "url": "https://squadswap.com/",
+          "networks": [
+            "BSC"
+          ]
+        },
+        "waveX": {
+          "icon": "https://icons.llama.fi/wavex.png",
+          "url": "https://wavex.fi",
+          "networks": [
+            "Soneium"
+          ]
+        },
+        "WanSwap": {
+          "icon": "https://icons.llama.fi/wanswap-dex.jpg",
+          "url": "https://wanswap.finance/",
+          "networks": [
+            "Wanchain"
+          ]
+        },
+        "OraiDEX Pool": {
+          "icon": "https://icons.llama.fi/oraidex-pool-v3.png",
+          "url": "https://oraidex.io/",
+          "networks": [
+            "Oraichain"
+          ]
+        },
+        "4Swap": {
+          "icon": "https://icons.llama.fi/pando.png",
+          "url": "https://pando.im",
+          "networks": [
+            "Mixin"
+          ]
+        },
+        "Mimo": {
+          "icon": "https://icons.llama.fi/mimo.jpg",
+          "url": "https://mimo.exchange",
+          "networks": [
+            "IoTeX"
+          ]
+        },
+        "XSwap": {
+          "icon": "https://icons.llama.fi/xswap-v3.jpg",
+          "url": "https://app.xspswap.finance",
+          "networks": [
+            "XDC"
+          ]
+        },
+        "Blum": {
+          "icon": "https://icons.llama.fi/blum.jpg",
+          "url": "https://blum.io",
+          "networks": [
+            "TON"
+          ]
+        },
+        "Equalizer Exchange": {
+          "icon": "https://icons.llama.fi/equalizer-exchange.png",
+          "url": "https://equalizer.exchange",
+          "networks": [
+            "Fantom",
+            "Sonic"
+          ]
+        },
+        "KIM Exchange": {
+          "icon": "https://icons.llama.fi/kim-exchange-v3.jpg",
+          "url": "https://kim.exchange",
+          "networks": [
+            "Mode"
+          ]
+        },
+        "Econia": {
+          "icon": "https://icons.llama.fi/econia.jpg",
+          "url": "https://www.econialabs.com",
+          "networks": [
+            "Aptos"
+          ]
+        },
+        "Thick": {
+          "icon": "https://icons.llama.fi/thick.png",
+          "url": "https://eliteness.network/thick",
+          "networks": [
+            "Arbitrum",
+            "Base",
+            "Fantom",
+            "Sonic"
+          ]
+        },
+        "H2 Finance": {
+          "icon": "https://icons.llama.fi/h2-finance-v2.png",
+          "url": "https://h2.finance",
+          "networks": [
+            "Cronos zkEVM"
+          ]
+        },
+        "KlaySwap": {
+          "icon": "https://icons.llama.fi/klayswap.jpg",
+          "url": "https://klayswap.com/dashboard",
+          "networks": [
+            "Kaia"
+          ]
+        },
+        "CaviarNine Shape Liquidity": {
+          "icon": "https://icons.llama.fi/caviarnine-shape-liquidity.png",
+          "url": "https://www.caviarnine.com/trade",
+          "networks": [
+            "Radix"
+          ]
+        },
+        "Web3.world": {
+          "icon": "https://icons.llama.fi/web3.world.png",
+          "url": "https://web3.world",
+          "networks": [
+            "Venom"
+          ]
+        },
+        "Wombat Exchange": {
+          "icon": "https://icons.llama.fi/wombat-exchange.png",
+          "url": "https://www.wombat.exchange/",
+          "networks": [
+            "Arbitrum",
+            "Avalanche",
+            "BSC",
+            "Base",
+            "Ethereum",
+            "OP Mainnet",
+            "Scroll"
+          ]
+        },
+        "InfinityPools": {
+          "icon": "https://icons.llama.fi/infinitypools.png",
+          "url": "https://infinitypools.finance/",
+          "networks": [
+            "Base"
+          ]
+        },
+        "Rabbit Swap": {
+          "icon": "https://icons.llama.fi/rabbit-swap.png",
+          "url": "https://rabbitswap.xyz",
+          "networks": [
+            "Viction"
+          ]
+        },
+        "Nile Legacy": {
+          "icon": "https://icons.llama.fi/nile-exchange.png",
+          "url": "https://nile.build",
+          "networks": [
+            "Linea"
+          ]
+        },
+        "DefiChain": {
+          "icon": "https://icons.llama.fi/defichain.jpg",
+          "url": "https://defichain.com/dex",
+          "networks": [
+            "DefiChain"
+          ]
+        },
+        "Saros": {
+          "icon": "https://icons.llama.fi/saros.svg",
+          "url": "https://dex.saros.xyz/",
+          "networks": [
+            "Solana"
+          ]
+        },
+        "WEMIX Full Range Deposit": {
+          "icon": "https://icons.llama.fi/wemix-full-range-deposit.jpg",
+          "url": "https://wemix.fi",
+          "networks": [
+            "WEMIX3.0"
+          ]
+        },
+        "Blitz": {
+          "icon": "https://icons.llama.fi/blitz-amm.jpg",
+          "url": "https://blitz.exchange",
+          "networks": [
+            "Blast"
+          ]
+        },
+        "Ferro": {
+          "icon": "https://icons.llama.fi/ferro.png",
+          "url": "https://ferroprotocol.com",
+          "networks": [
+            "Cronos"
+          ]
+        },
+        "BigPump": {
+          "icon": "https://icons.llama.fi/bigpump.png",
+          "url": "https://pocketfi.org",
+          "networks": [
+            "TON"
+          ]
+        },
+        "Nabla Finance": {
+          "icon": "https://icons.llama.fi/nabla-finance.png",
+          "url": "https://nabla.fi",
+          "networks": [
+            "Arbitrum",
+            "Base"
+          ]
+        },
+        "Canto": {
+          "icon": "https://icons.llama.fi/canto-dex.jpg",
+          "url": "https://app.slingshot.finance/swap/CANTO",
+          "networks": [
+            "Canto"
+          ]
+        },
+        "Kriya": {
+          "icon": "https://icons.llama.fi/kriya-amm.png",
+          "url": "https://app.kriya.finance/spot/liquidity",
+          "networks": [
+            "Sui"
+          ]
+        },
+        "Cables Finance": {
+          "icon": "https://icons.llama.fi/cables-finance.jpg",
+          "url": "https://www.cables.finance",
+          "networks": [
+            "Arbitrum",
+            "Avalanche"
+          ]
+        },
+        "Trisolaris": {
+          "icon": "https://icons.llama.fi/trisolaris.jpg",
+          "url": "https://www.trisolaris.io/#/swap",
+          "networks": [
+            "Aurora"
+          ]
+        },
+        "Megaton Finance": {
+          "icon": "https://icons.llama.fi/megaton-finance.png",
+          "url": "https://megaton.fi",
+          "networks": [
+            "TON"
+          ]
+        },
+        "Javsphere": {
+          "icon": "https://icons.llama.fi/javsphere.jpg",
+          "url": "https://javsphere.com/",
+          "networks": [
+            "Base"
+          ]
+        },
+        "Retro": {
+          "icon": "https://icons.llama.fi/retro.png",
+          "url": "https://retro.finance/",
+          "networks": [
+            "Polygon"
+          ]
+        },
+        "SwapX": {
+          "icon": "https://icons.llama.fi/swapx-v2.jpg",
+          "url": "https://swapx.fi/",
+          "networks": [
+            "Sonic"
+          ]
+        },
+        "Taraswap": {
+          "icon": "https://icons.llama.fi/taraswap.jpg",
+          "url": "https://www.taraswap.app",
+          "networks": [
+            "Taraxa"
+          ]
+        },
+        "Ociswap Precision": {
+          "icon": "https://icons.llama.fi/ociswap-precision.jpg",
+          "url": "https://ociswap.com/",
+          "networks": [
+            "Radix"
+          ]
+        },
+        "JustBet": {
+          "icon": "https://icons.llama.fi/justbet.png",
+          "url": "https://www.just.bet",
+          "networks": [
+            "WINR"
+          ]
+        },
+        "Verse": {
+          "icon": "https://icons.llama.fi/verse.png",
+          "url": "https://verse.bitcoin.com",
+          "networks": [
+            "Ethereum",
+            "smartBCH"
+          ]
+        },
+        "Macaron": {
+          "icon": "https://icons.llama.fi/macaron-amm.png",
+          "url": "https://www.macaron.xyz",
+          "networks": [
+            "Bitlayer"
+          ]
+        },
+        "FusionX": {
+          "icon": "https://icons.llama.fi/fusionx-v3.jpg",
+          "url": "https://fusionx.finance",
+          "networks": [
+            "Mantle"
+          ]
+        },
+        "Alita Finance": {
+          "icon": "https://icons.llama.fi/alita-finance.png",
+          "url": "https://app.alita.finance",
+          "networks": [
+            "BSC"
+          ]
+        },
+        "Aquarius Stellar": {
+          "icon": "https://icons.llama.fi/aquarius-stellar.png",
+          "url": "https://aqua.network",
+          "networks": [
+            "Stellar"
+          ]
+        },
+        "HbarSuite": {
+          "icon": "https://icons.llama.fi/hbarsuite.jpg",
+          "url": "https://hsuite.finance",
+          "networks": [
+            "Hedera"
+          ]
+        },
+        "SailFish Finance": {
+          "icon": "https://icons.llama.fi/sailfish-finance.png",
+          "url": "https://sailfish.finance",
+          "networks": [
+            "EDU Chain"
+          ]
+        }
+      }
+    }
+  }
+}
